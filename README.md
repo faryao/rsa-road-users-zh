@@ -1,6 +1,6 @@
-# RSA Road Users — English / 中文
+# RSA 道路使用者指南（中文）
 
-A bilingual, Markdown-based reference mirror of the Road Safety Authority's Road Users section, rendered with Material for MkDocs.
+爱尔兰道路安全局（RSA）“道路使用者”栏目中文参考译本，使用 Markdown 编写并通过 Material for MkDocs 发布。
 
 ## Local development
 
@@ -10,10 +10,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 mkdocs serve
 
-# Refresh source pages and Chinese translations when needed
+# 按需更新原始页面和中文翻译
 npm run sync
 ```
 
-Content is stored under `content/en` and `content/zh`. Material for MkDocs provides navigation, full-text search, dark mode, responsive layouts, and a page-aware language switch.
+中文内容存放在 `content/zh`。Material for MkDocs 提供导航、全文搜索、深色模式和响应式布局。
 
-> Unofficial reference project. Source content belongs to Ireland's Road Safety Authority. Always check the linked RSA page for current official guidance.
+> 本项目是非官方中文参考译本。原始内容属于爱尔兰道路安全局。有关最新法律和安全信息，请始终查阅页面中链接的 RSA 官方网页。

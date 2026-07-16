@@ -1,14 +1,14 @@
-site_name: RSA Road Users
-site_description: Bilingual English–Chinese reference for RSA road-user guidance
+site_name: RSA 道路使用者指南
+site_description: 爱尔兰道路安全局道路使用者指南中文参考译本
 site_url: https://faryao.github.io/rsa-road-users-zh/
 repo_url: https://github.com/faryao/rsa-road-users-zh
 repo_name: faryao/rsa-road-users-zh
-docs_dir: content
+docs_dir: content/zh
 site_dir: site
 
 theme:
   name: material
-  language: en
+  language: zh
   logo: assets/logo.svg
   favicon: assets/logo.svg
   features:
@@ -39,23 +39,6 @@ theme:
 
 plugins:
   - search
-  - i18n:
-      docs_structure: folder
-      fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: en
-          default: true
-          name: English
-          build: true
-          nav_translations:
-            Road Users: Road Users
-        - locale: zh
-          name: 中文
-          build: true
-          nav_translations:
-            Road Users: 道路使用者
 
 markdown_extensions:
   - admonition
@@ -72,7 +55,7 @@ markdown_extensions:
 extra_css:
   - assets/extra.css
 
-copyright: Unofficial reference translation · Always verify current guidance with the RSA
+copyright: 非官方中文参考译本 · 请始终以 RSA 最新官方指南为准
 
 extra:
   social:
