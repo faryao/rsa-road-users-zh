@@ -12,9 +12,9 @@ theme:
   logo: assets/logo.svg
   favicon: assets/logo.svg
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.indexes
+    - navigation.expand
     - navigation.top
     - navigation.footer
     - toc.follow

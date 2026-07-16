@@ -19,6 +19,9 @@ async function retry(url, options, tries = 4) {
 function clean(raw, source, title) {
   let body = raw.replace(/^Title:.*?Markdown Content:\s*/s, '').trim();
   body = body.replace(/!\[[^\]]*\]\(blob:[^)]+\)\s*/g, '');
+  const lines = body.split('\n');
+  const articleHeading = lines.findLastIndex(line => /^#\s+\S/.test(line));
+  if (articleHeading >= 0) body = lines.slice(articleHeading + 1).join('\n').trim();
   const service = body.indexOf('\n## RSA online services');
   if (service > 0) body = body.slice(0, service);
   body = body.replace(/^1\.\s+\[Services\][\s\S]*?^3\.\s+.*?\n/m, '');
@@ -45,14 +48,21 @@ async function translateMarkdown(md) {
   const translated = [];
   for (const chunk of chunks) { translated.push(await translateText(chunk)); await sleep(120); }
   const zhTitle = await translateText(title);
-  return `---\ntitle: "${zhTitle}"\nsource: "${source}"\nupdated: "${new Date().toISOString().slice(0,10)}"\n---\n\n${translated.join('')}\n\n---\n\n[查看 RSA 当前官方页面](${source})\n`;
+  const normalized = translated.join('')
+    .replace(/^(#{1,6})(?=\S)/gm, '$1 ')
+    .replace(/^【([^\n]+)\]\(/gm, '[$1](')
+    .replace(/^【([^\n]+)】\(/gm, '[$1](')
+    .replace(/^\*\* \*\*$/gm, '---');
+  return `---\ntitle: "${zhTitle}"\nsource: "${source}"\nupdated: "${new Date().toISOString().slice(0,10)}"\n---\n\n${normalized}\n\n---\n\n[查看 RSA 当前官方页面](${source})\n`;
 }
 
 await fs.mkdir('content/en', {recursive:true});
 await fs.mkdir('content/zh', {recursive:true});
-for (let i=0; i<pages.length; i++) {
-  const [slug,title] = pages[i];
-  const source = `${root}${slug ? '/'+slug : ''}`;
+const filter = process.argv[2];
+const selectedPages = filter ? pages.filter(([slug]) => slug === filter || slug.startsWith(`${filter}/`)) : pages;
+for (let i=0; i<selectedPages.length; i++) {
+  const [slug,title,sourceSlug = slug] = selectedPages[i];
+  const source = `${root}${sourceSlug ? '/'+sourceSlug : ''}`;
   const file = slug || 'index';
   const target = path.join('content/en', `${file}.md`);
   const zhTarget = path.join('content/zh', `${file}.md`);
@@ -63,6 +73,6 @@ for (let i=0; i<pages.length; i++) {
     const en = clean(raw, source, title);
     await fs.writeFile(target, en);
     await fs.writeFile(zhTarget, await translateMarkdown(en));
-    console.log(`${i+1}/${pages.length} ${slug || 'index'}`);
+    console.log(`${i+1}/${selectedPages.length} ${slug || 'index'}`);
   } catch (e) { console.error(`FAILED ${slug}: ${e.message}`); }
 }
