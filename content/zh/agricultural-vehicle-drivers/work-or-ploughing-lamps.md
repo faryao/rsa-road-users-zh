@@ -40,7 +40,9 @@ updated: "2026-07-16"
 
 您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
 
 感谢您的反馈。
 

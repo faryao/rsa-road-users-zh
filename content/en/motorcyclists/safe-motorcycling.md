@@ -23,8 +23,6 @@ Step-by-step guidance on how to get your licence and become a safe, qualified dr
 
 Watch and learn why you need to become a skilled, safe motorcyclist
 
-You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)
-
 * * *
 
 ## The importance of training
@@ -42,7 +40,7 @@ There are four steps to obtaining a motorcycle driving licence:
 
 * * *
 
-[Services MyRoadSafety portal You can now easily manage all your driver services, tests, permits and licences online on MyRoadSafety. Open in new browser tab](https://myroadsafety.rsa.ie/)
+[Services MyRoadSafety portal You can now easily manage all your driver services, tests, permits and licences online on MyRoadSafety.](https://myroadsafety.rsa.ie/)
 
 * * *
 
@@ -88,6 +86,8 @@ The lack of a protective shell combined with high speed means that motorbikes wi
 
 ## Top tips for motorcyclists
 
+Ensure that the safety helmet and protective clothing that you wear every time you get on your bike meets [CE approval standards.](https://ec.europa.eu/docsroom/documents/24722/attachments/1/translations/en/renditions/native)
+
 *   Helmet should be a snug fit and properly fastened.
 *   Visor should be clean and clear.
 *   Jacket and trousers should give you enough protection from impact, abrasion, cold and weather conditions.
@@ -126,8 +126,6 @@ Research shows that the four main causal factors that contribute to fatal motorc
 3.   A motorcyclist losing control while taking a corner / bend and crossing into the path of an oncoming vehicle resulting in a head on collision.
 
 4.   Another vehicle (car, van, truck) turning or driving through a junction / joining a main road from a minor road and colliding with a motorcyclist.
-
-Overtaking when vehicle is travelling in the same direction
 
 Previous Next
 

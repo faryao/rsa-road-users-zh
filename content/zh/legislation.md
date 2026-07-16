@@ -11,7 +11,7 @@ updated: "2026-07-16"
 
 此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。 ![图片1：立法](https://www.rsa.ie/images/default-source/in-page-full-width-(868-x-487)/legislation.jpg?sfvrsn=c17a9156_3)
 
-** **
+---
 
 ## 车辆使用法规
 
@@ -19,23 +19,23 @@ updated: "2026-07-16"
 
 如果您是车辆或卡车和拖车等车辆组合的车主、操作员或驾驶员，您有法律责任确保您的车辆在公共场所使用时安全且适合道路行驶。驾驶有危险缺陷的车辆可能会被处以最高 5,000 欧元的罚款和/或最高六个月的监禁。
 
-** **
+---
 
 ### 道路交通立法的三项主要内容
 
-[S.I. 1963 年第 190 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)-道路交通建设、设备和车辆使用条例（经修订）规定了公共道路上使用的车辆（包括大型公务车辆和小型公务车辆）的建设、设备和使用要求。他们还规定了如何使用不同类型的车辆和设备以及驾驶员和乘客的法律责任。
+[S.I. 1963 年第 190 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)-道路交通建设、设备和车辆使用条例（经修订)规定了公共道路上使用的车辆（包括大型公务车辆和小型公务车辆)的建设、设备和使用要求。他们还规定了如何使用不同类型的车辆和设备以及驾驶员和乘客的法律责任。
 
 注：以上规定为原始文件。随着时间的推移，立法会进行修订，以跟上不断变化的立法、行为、执法、技术、政府战略等。
 
-[S.I. 2003 年第 5 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.irishstatutebook.ie/eli/2003/si/5/made/en/print) -《道路交通建设和车辆使用条例》（修订版）规定了在爱尔兰道路上使用的车辆及其拖车的允许重量和尺寸。
+[S.I. 2003 年第 5 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.irishstatutebook.ie/eli/2003/si/5/made/en/print) -《道路交通建设和车辆使用条例》（修订版)规定了在爱尔兰道路上使用的车辆及其拖车的允许重量和尺寸。
 
 注：以上规定为原始文件。随着时间的推移，立法会进行修订，以跟上不断变化的立法、行为、执法、技术、政府战略等。
 
-[S.I. 1963 年第 189 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print) - 道路交通（车辆照明条例（修订版））规定了在公共场所使用的车辆上安装的车灯的规则，以及如何使用这些灯的规则。
+[S.I. 1963 年第 189 号 在新浏览器选项卡中打开 在新浏览器选项卡中打开](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print) - 道路交通（车辆照明条例（修订版))规定了在公共场所使用的车辆上安装的车灯的规则，以及如何使用这些灯的规则。
 
 注：以上规定为原始文件。随着时间的推移，立法会进行修订，以跟上不断变化的立法、行为、执法、技术、政府战略等。
 
-** **
+---
 
 ## 型式批准立法
 
@@ -45,7 +45,7 @@ updated: "2026-07-16"
 
 [RSA 型式认证 2024 交互式 pdf | 996 KB](https://www.rsa.ie/docs/default-source/road-safety/legislation/rsa-type-approval-202473f767608f2247e9ab37c7f7034282a1.pdf?sfvrsn=571dc11b_48)
 
-** **
+---
 
 ### 国家小系列型式认证 (NSSTA) 和国家个体车辆认证 (IVA) 要求的变更
 
@@ -55,9 +55,9 @@ updated: "2026-07-16"
 
 为了满足 NSSTA 和 IVA 的 GSR2，S.I. No. 556/2020 已由 [S.I.第 201/2024 在新浏览器选项卡中打开](https://www.irishstatutebook.ie/eli/2024/si/201/made/en/print?q=201&years=2024)
 
-[RSA NSSTA-IVA简报]（https://www.rsa.ie/docs/default-source/road-safety/legislation/rsa-nssta-iva-briefing-note.pdf?sfvrsn=f4be6ff0_3“RSA NSSTA-IVA简报”）旨在告知NSSTA持有者、IVA申请人和相关利益相关者这些重要变化。
+[RSA NSSTA-IVA简报](https://www.rsa.ie/docs/default-source/road-safety/legislation/rsa-nssta-iva-briefing-note.pdf?sfvrsn=f4be6ff0_3“RSA NSSTA-IVA简报”)旨在告知NSSTA持有者、IVA申请人和相关利益相关者这些重要变化。
 
-** **
+---
 
 ## 常见问题
 
@@ -65,7 +65,7 @@ updated: "2026-07-16"
 
 汽车首次制造时必须通过所有必要的安全和质量标准，然后才能在整个欧洲销售或注册 - 这称为欧洲型式认证。自 2009 年 4 月 29 日起，所有新制造的车辆都必须经过型式认证。
 
-爱尔兰国家标准局（[NSAI 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/)）是爱尔兰指定的审批机构，负责仅为全新未注册车辆颁发所有国家批准，例如 IVA 或 NSSTA。
+爱尔兰国家标准局（[NSAI 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/))是爱尔兰指定的审批机构，负责仅为全新未注册车辆颁发所有国家批准，例如 IVA 或 NSSTA。
 
 这涉及进口或少量生产或作为单独车辆进口或制造的新的未注册乘用车。每辆车都经过检查，并在 [NSAI 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/national-type-approva/atc/) 指定的测试中心通过检查后，将颁发 IVA 证书以允许在爱尔兰注册。
 
@@ -93,7 +93,7 @@ O2 - 设计车辆总重量 (DGVW)* 超过 750 公斤但不超过 3,500 公斤的
 
 _*DGVW 或最大授权质量 (MAM) 是车辆或拖车的重量，包括根据制造商的设计规格可以承载的最大负载。_
 
-爱尔兰国家标准局（[NSAI 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/)）是爱尔兰指定的批准机构，负责颁发所有国家批准，例如仅针对全新未注册车辆的 IVA 或 NSSTA。
+爱尔兰国家标准局（[NSAI 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/))是爱尔兰指定的批准机构，负责颁发所有国家批准，例如仅针对全新未注册车辆的 IVA 或 NSSTA。
 
 这是针对最多 500 辆小批量拖车的认证，旨在供爱尔兰或全国使用。当NSSTA获得批准后，制造商可以为同类型的每辆拖车颁发CoC（合格证书）。
 
@@ -120,11 +120,13 @@ _*DGVW 或最大授权质量 (MAM) 是车辆或拖车的重量，包括根据制
 
 任何破裂或破损的镜片都必须更换。始终确保您的拖车灯已连接、清洁、工作正常且清晰可见。
 
-** **
+---
 
 ## 相关页面
 
-[道路安全重量和尺寸爱尔兰道路上商用和农用车辆及拖车的最大允许重量和尺寸。](https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/weights-and-dimensions)您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/legislation#)[否](http://www.rsa.ie/road-safety/road-users/legislation#)
+[道路安全重量和尺寸爱尔兰道路上商用和农用车辆及拖车的最大允许重量和尺寸。](https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/weights-and-dimensions)您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/legislation#)
+
+[否](http://www.rsa.ie/road-safety/road-users/legislation#)
 
 ---
 

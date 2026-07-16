@@ -13,7 +13,7 @@ updated: "2026-07-16"
 
 ![图片1：绿灯下的行人过路处](https://www.rsa.ie/images/default-source/in-page-full-width-(868-x-487)/selective-focus-on-pedestrian-traffic-lights--buildings-reflected-in-them--green-walk-sign-1212390005_2125x1416-(1).jpg?sfvrsn=a85a7d20_1)
 
-** **
+---
 
 ## 给行人的重要提示
 
@@ -139,7 +139,9 @@ updated: "2026-07-16"
 * 如果您使用的人行道上有明确标记的自行车道和人行道，请仅在指定车道上行走。
 * 如果您所在的人行道上有双重标记，表明您正在与骑自行车的人共享道路，请小心并仔细聆听，因为骑自行车的人经常会从后面接近您。
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/pedestrians#)[否](http://www.rsa.ie/road-safety/road-users/pedestrians#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/pedestrians#)
+
+[否](http://www.rsa.ie/road-safety/road-users/pedestrians#)
 
 ---
 

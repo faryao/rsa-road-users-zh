@@ -14,12 +14,11 @@ This page provides information on legal limits, coupling types, de-coupling and 
 
 Coupling is a device used to connect an agricultural tractor to a trailer or piece of interchangeable towed equipment. The legal limits for couplings are as follows:
 
-| Coupling | Image | Explanation |
-| --- | --- | --- |
-| Hook and ring | ![Image 7](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/hook-and-ring.jpg?Status=Master&sfvrsn=ee6d61f_3) | Commonly used on agricultural vehicles in Ireland, usually limited to vertical loads less than or equal to 3,000 kg i.e. downward force placed on the hitch by the coupling at the point of connection. |
-| Pin and eye | ![Image 8](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/pin-and-eye.jpg?Status=Master&sfvrsn=d67e1cce_3) | Usually used when drawing pieces of interchangeable towed equipment. Limited to vertical loads less than or equal to 3,000 kg. |
-| Ball and hitch | ![Image 9](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/ball-and-hitch.jpg?Status=Master&sfvrsn=e7769342_3) | Usually limited to vertical loads of less than or equal to 3,000 kg but may be approved for a 4,000 kg load while complying with ISO 24347 and approved under ECE Reg. 55) Refer to manufacturer’s plate on rear of tractor or contact original manufacturer. |
-| Secondary coupling for agricultural trailers | ![Image 10](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/secondary-coupling-for-agricultural-vehicles.jpg?Status=Master&sfvrsn=9dd208aa_3) | An additional coupling to any of the above consisting of a safety chain or wire rope ensuring trailer remains attached to its towing vehicle if the primary coupling fails or becomes detached. Such couplings should be appropriately approved and rated. |
+Coupling Image Explanation
+Hook and ring![Image 7](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/hook-and-ring.jpg?Status=Master&sfvrsn=ee6d61f_3)Commonly used on agricultural vehicles in Ireland, usually limited to vertical loads less than or equal to 3,000 kg i.e. downward force placed on the hitch by the coupling at the point of connection.
+Pin and eye![Image 8](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/pin-and-eye.jpg?Status=Master&sfvrsn=d67e1cce_3)Usually used when drawing pieces of interchangeable towed equipment. Limited to vertical loads less than or equal to 3,000 kg.
+Ball and hitch![Image 9](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/ball-and-hitch.jpg?Status=Master&sfvrsn=e7769342_3)Usually limited to vertical loads of less than or equal to 3,000 kg but may be approved for a 4,000 kg load while complying with ISO 24347 and approved under ECE Reg. 55) Refer to manufacturer’s plate on rear of tractor or contact original manufacturer.
+Secondary coupling for agricultural trailers![Image 10](http://www.rsa.ie/images/default-source/services/vehicle-owners/vehicle-standards-faqs/secondary-coupling-for-agricultural-vehicles.jpg?Status=Master&sfvrsn=9dd208aa_3)An additional coupling to any of the above consisting of a safety chain or wire rope ensuring trailer remains attached to its towing vehicle if the primary coupling fails or becomes detached. Such couplings should be appropriately approved and rated.
 
 * * *
 

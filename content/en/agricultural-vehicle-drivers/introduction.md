@@ -16,6 +16,12 @@ If you regularly use your agricultural tractor for your work, e.g. farming, fish
 
 Our videos explain many of the standards and regulations that apply when using agricultural vehicles on the road.
 
+You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)
+
+[Prev](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)[Next](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
+
+RSA - Agricultural Vehicles - Introduction
+
 Previous Next
 
 *   [RSA - Agricultural Vehicles - Introduction![Image 7](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---agricultural-vehicles---introduction.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
@@ -28,6 +34,8 @@ Previous Next
 *   [RSA - Make sure you have a valid licence![Image 14](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---make-sure-you-have-a-valid-licence.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 *   [RSA - Make sure your load is secure![Image 15](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---make-sure-your-load-is-secure.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 *   [RSA - Sharing the road with other road users![Image 16](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---sharing-the-road-with-other-road-users.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
+
+Previous Next
 
 [Download and read our Revised Standards for Agricultural Vehicles pdf | 1448 KB](http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?sfvrsn=670b2fb7_5)
 
@@ -44,7 +52,7 @@ From a road safety perspective and to protect Ireland’s road and bridges it is
 
 ## Fast tractor testing
 
-If your tractor has a maximum design speed exceeding 40 km/h and is used commercially, it may need to undergo a periodic [roadworthiness test](https://www.cvrt.ie/en-US/About-CVRT/Fast-Tractor-Testing/) and display a certificate of roadworthiness (CRW).
+If your tractor has a maximum design speed exceeding 40 km/h and is used commercially, it may need to undergo a periodic [roadworthiness test Open in new browser tab](https://www.cvrt.ie/en-US/About-CVRT/Fast-Tractor-Testing/) and display a certificate of roadworthiness (CRW).
 
 [Back to top](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#top)
 

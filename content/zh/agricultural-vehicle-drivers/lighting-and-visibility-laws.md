@@ -10,6 +10,8 @@ updated: "2026-07-16"
 
 本页提供有关农用车辆照明要求和豁免的信息。
 
+您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+
 ## 一般规则
 
 ### 农用拖拉机和自走式农业设备
@@ -48,9 +50,9 @@ updated: "2026-07-16"
 
 白天时间是指“照明”时间以外的任何时间。 “点亮”时间是日落后半小时到第二天日出前半小时。
 
-[是否所有拖拉机都必须安装闪烁的琥珀色信标？](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+[是否所有拖拉机都必须安装闪烁的琥珀色信标？](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)是的。自 2016 年 1 月 1 日起，所有拖拉机都必须安装闪烁的琥珀色信标，并在使用时将其打开。如果老式车辆仅参加老式集会或用于展示目的，则不需要信标。
 
-是的。自 2016 年 1 月 1 日起，所有拖拉机都必须安装闪烁的琥珀色信标，并在使用时将其打开。如果老式车辆仅参加老式集会或用于展示目的，则不需要信标。[我有一辆 1980 年前的农用拖拉机，经常在公共道路上使用它。它装有灯。照明法是否意味着我不再需要安装或工作灯？](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+[我有一辆 1980 年前的农用拖拉机，经常在公共道路上使用它。它装有灯。照明法是否意味着我不再需要安装或工作灯？](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
 
 不可以。您必须保持现有车辆上安装的照明和反光镜处于清洁和高效的状态，以便随时使用。
 
@@ -78,14 +80,18 @@ updated: "2026-07-16"
 
 您还可以观看我们的视频，直观地演示这些规则。
 
-重要的！此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。
+您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)重要的！此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
 
 感谢您的反馈。
 
 感谢您的反馈。
-您尝试过我们的帮助部分吗？[访问我们的在线支持中心](http://www.rsa.ie/help-support/online-support-centre)
+您尝试过我们的帮助部分吗？
+
+[访问我们的在线支持中心](http://www.rsa.ie/help-support/online-support-centre)
 
 
 ---

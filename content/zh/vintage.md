@@ -16,7 +16,7 @@ updated: "2026-07-16"
 
 车龄 40 岁以下的老式车辆，如果在公共场所使用，仍必须接受道路适航性测试。车龄超过 40 年的车辆可豁免道路适航性测试，但仅限于用于非商业目的，并且法律仍要求您确保车辆状况良好且不会对其他道路使用者造成风险。如果车辆车龄超过 40 年且用于商业原因（例如，作为婚礼租赁车辆），则需要进行适航性测试。需要。
 
-** **
+---
 
 ## 常见问题
 
@@ -30,7 +30,7 @@ updated: "2026-07-16"
 * 相关国家或工会法律中定义的特定类型已不再生产。 
 * 历史上保留并维持其原始状态，其主要部件的技术特性未发生实质性变化。 
 
-目前，只有 40 年及以上的私家车可以豁免 NCT。年龄在30岁至39岁（含）之间的私家车每两年必须进行一次适航性测试。但是，如果汽车用于商业目的，例如婚礼租赁，则需要进行适航性测试。有关更多信息，请参阅我们的 [NCT](https://www.rsa.ie/services/vehicle-owners/national-car-test-(nct)/about-the-national-car-test-(nct)) 网页。
+目前，只有 40 年及以上的私家车可以豁免 NCT。年龄在30岁至39岁（含)之间的私家车每两年必须进行一次适航性测试。但是，如果汽车用于商业目的，例如婚礼租赁，则需要进行适航性测试。有关更多信息，请参阅我们的 [NCT](https://www.rsa.ie/services/vehicle-owners/national-car-test-(nct)/about-the-national-car-test-(nct)) 网页。
 
 老式卡车可用于商业目的，即运载货物，因此需要进行测试。这些车辆均按照相关车辆最初设计的标准进行测试。
 
@@ -82,7 +82,9 @@ updated: "2026-07-16"
 
 [立法爱尔兰道路上使用的车辆的道路交通立法。新车型式批准立法。爱尔兰和欧盟安全和环境标准。](https://www.rsa.ie/road-safety/road-users/legislation)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/vintage#)[否](http://www.rsa.ie/road-safety/road-users/vintage#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/vintage#)
+
+[否](http://www.rsa.ie/road-safety/road-users/vintage#)
 
 ---
 

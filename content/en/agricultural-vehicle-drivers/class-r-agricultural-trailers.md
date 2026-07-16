@@ -12,8 +12,7 @@ This page offers information about class R agricultural trailers, their categori
 
 ## Trailer walkaround checks
 
-[Agricultural Trailer Walkaround Checklist Open in new browser tab](https://www.youtube.com/watch?v=lGYWiBZjtC4)You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/agricultural/class-r-agricultural-trailers#)
-
+[Agricultural Trailer Walkaround Checklist](https://www.youtube.com/watch?v=lGYWiBZjtC4)
 Carrying out a daily trailer walkaround check is an effective way to improve road safety and keep your trailer roadworthy. Agricultural trailers carry heavy loads and are regularly used on public roads so even a small defect can develop to become a serious hazard if it goes unnoticed. By taking a few minutes to check things like brakes, lights, reflective markings, tyres and that the trailer is correctly hooked to the tractor, you can spot issues before they cause breakdowns or collisions and help your trailer last longer.
 
 * * *
@@ -26,14 +25,13 @@ Category R trailers are intended mainly to carry loads or to process agricultura
 
 ‘b’ trailers with a maximum design speed above 40 km/h.
 
-For further information on trailer categories refer to [EU Regulation 167/2013 Open in new browser tab](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32013R0167&rid=6)
+For further information on trailer categories refer to [EU Regulation 167/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32013R0167&rid=6)
 
-| Trailer categories | Definition |
-| --- | --- |
-| R1 | Comprises trailers, the sum of the technically permissible masses per axle of which does not exceed 1,500 kg |
-| R2 | Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 1,500 kg but does not exceed 3,500 kg |
-| R3 | Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 3,500 kg but does not exceed 21,000 kg |
-| R4 | Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 21,000 kg |
+Trailer categories Definition
+R1 Comprises trailers, the sum of the technically permissible masses per axle of which does not exceed 1,500 kg
+R2 Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 1,500 kg but does not exceed 3,500 kg
+R3 Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 3,500 kg but does not exceed 21,000 kg
+R4 Comprises trailers, the sum of the technically permissible masses per axle of which exceeds 21,000 kg
 
 * * *
 
@@ -53,17 +51,16 @@ Since 01 January 2016, all new agricultural trailers must be plated. If your tra
 
 ### Type approval
 
-Type approval requirements for class R agricultural trailers are outlined in [EU Regulation 167/2013 Open in new browser tab](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R0167) (as amended). For information on type approval, you will need to contact the [National Standards Authority of Ireland Open in new browser tab](https://www.nsai.ie/certification/automotive/national-type-approva/) (NSAI).
+Type approval requirements for class R agricultural trailers are outlined in [EU Regulation 167/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R0167) (as amended). For information on type approval, you will need to contact the [National Standards Authority of Ireland](https://www.nsai.ie/certification/automotive/national-type-approva/) (NSAI).
 
 ### Braking requirements
 
 **Braking requirements depend on the year of manufacture. For trailers manufactured****on or after 1 January 2016, the following are the braking requirements.**
 
-| Maximum design speed of trailer is 40 km/h and DGVW* is less than 5 tonnes | Design speed of trailer is over 40 km/h & DGVW* is 5 tonnes or more |
-| --- | --- |
-| Service Brake - minimum brake efficiency of 25% | Service Brake - minimum brake efficiency of 45% |
-| Parking Brake - minimum brake efficiency of 16% | Parking Brake - minimum brake efficiency of 16% |
-| Breakaway brake - minimum brake efficiency of 13.5% | Breakaway brake - minimum brake efficiency of 13.5% |
+Maximum design speed of trailer is 40 km/h and DGVW* is less than 5 tonnes Design speed of trailer is over 40 km/h & DGVW* is 5 tonnes or more
+Service Brake - minimum brake efficiency of 25%Service Brake - minimum brake efficiency of 45%
+Parking Brake - minimum brake efficiency of 16%Parking Brake - minimum brake efficiency of 16%
+Breakaway brake - minimum brake efficiency of 13.5%Breakaway brake - minimum brake efficiency of 13.5%
 
 *DGVW is the design gross vehicle weight, also referred to MAM (maximum authorised mass) on the trailer's plate is the weight of a vehicle or trailer including the maximum load it can carry as per the manufacturer's design specifications.
 
@@ -73,9 +70,12 @@ Type approval requirements for class R agricultural trailers are outlined in [EU
 
 **Trailers manufactured before 1 January 2016, the following are the requirements.**
 
-| Maximum design speed is 40 km/h | Design speed of trailer is over 40 km/h |
-| --- | --- |
-| Must be fitted with a service brake, a breakaway brake or fitted with a secondary coupling (consisting of a chain or wire rope) | Service Brake – 45% performance Breakaway Brake – 13.5% performance Parking – 16% performance |
+Maximum design speed is 40 km/h Design speed of trailer is over 40 km/h
+Must be fitted with a service brake, a breakaway brake or fitted with a secondary coupling (consisting of a chain or wire rope)Service Brake – 45% performance
+
+Breakaway Brake – 13.5% performance
+
+Parking – 16% performance
 
 * * *
 
@@ -95,15 +95,15 @@ No. Wood shavings are not classed as agricultural produce and therefore must adh
 
 [What are the regulations on agricultural vehicles?](http://www.rsa.ie/road-safety/road-users/agricultural/class-r-agricultural-trailers#)
 
-[S.I. No. 248 of 2014 Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/2014/si/248/made/en/print) – Road Traffic Construction Equipment and use of Vehicles Regulations 2014
+[S.I. No. 248 of 2014](http://www.irishstatutebook.ie/eli/2014/si/248/made/en/print) – Road Traffic Construction Equipment and use of Vehicles Regulations 2014
 
-[S.I. No. 354 of 2015 Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/2015/si/354/made/en/print) – Road Traffic Construction and Use of Vehicles Regulations 2014
+[S.I. No. 354 of 2015](http://www.irishstatutebook.ie/eli/2015/si/354/made/en/print) – Road Traffic Construction and Use of Vehicles Regulations 2014
 
-[S.I. No. 249 of 2014 Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/2014/si/249/made/en/print) - Road Traffic Lighting of Vehicles Regulations 2014
+[S.I. No. 249 of 2014](http://www.irishstatutebook.ie/eli/2014/si/249/made/en/print) - Road Traffic Lighting of Vehicles Regulations 2014
 
-Please note that these regulations are in original format and amendments can be viewed at[Irish Statue book Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/)
+Please note that these regulations are in original format and amendments can be viewed at[Irish Statue book](http://www.irishstatutebook.ie/)
 
-[EC Regulation No. 167/2013 Open in new browser tab Open in new browser tab](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32013R0167&rid=6) – Approval of Agricultural and Forestry Vehicles.
+[EC Regulation No. 167/2013](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32013R0167&rid=6) – Approval of Agricultural and Forestry Vehicles.
 
 **IMPORTANT! This content is for general information only. It does not, and is not intended to, provide legal or technical advice or to represent a legal interpretation of the matters it addresses.**
 

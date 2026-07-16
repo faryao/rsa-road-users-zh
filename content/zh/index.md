@@ -17,7 +17,15 @@ updated: "2026-07-16"
 
 对其他道路使用者有用的链接和信息。
 
-[其他车辆驾驶员 特殊用途车辆的车辆标准和常见问题解答，包括房车、驾驶式割草机、机动轮椅、灵车。](https://www.rsa.ie/road-safety/road-users/special-purpose-vehicles)[老式车辆驾驶员 老式车辆的车辆标准，包括私人和商用车、拖拉机和房车。注册和适航性测试。 30 年规则。](https://www.rsa.ie/road-safety/road-users/vintage)[在道路上运输和使用动物的安全建议] 为骑马者、在道路上牵引马匹和其他动物的人以及遇到马和动物以及运输狗或其他宠物的司机提供的安全建议。](https://www.rsa.ie/road-safety/road-users/horse-drawn)[为在爱尔兰驾车的游客提供的建议。靠左行驶、限速、安全带、酒后驾驶、驾驶执照、大篷车、设备和扣分。](https://www.rsa.ie/road-safety/road-users/tourists)[支持组织 受道路交通碰撞影响的支持组织。](https://www.rsa.ie/road-safety/support-organisations)
+[其他车辆驾驶员 特殊用途车辆的车辆标准和常见问题解答，包括房车、驾驶式割草机、机动轮椅、灵车。](https://www.rsa.ie/road-safety/road-users/special-purpose-vehicles)
+
+[老式车辆驾驶员 老式车辆的车辆标准，包括私人和商用车、拖拉机和房车。注册和适航性测试。 30 年规则。](https://www.rsa.ie/road-safety/road-users/vintage)
+
+[在道路上运输和使用动物的安全建议] 为骑马者、在道路上牵引马匹和其他动物的人以及遇到马和动物以及运输狗或其他宠物的司机提供的安全建议。](https://www.rsa.ie/road-safety/road-users/horse-drawn)
+
+[为在爱尔兰驾车的游客提供的建议。靠左行驶、限速、安全带、酒后驾驶、驾驶执照、大篷车、设备和扣分。](https://www.rsa.ie/road-safety/road-users/tourists)
+
+[支持组织 受道路交通碰撞影响的支持组织。](https://www.rsa.ie/road-safety/support-organisations)
 
 ## 常见问题
 
@@ -131,7 +139,7 @@ updated: "2026-07-16"
 
 我们为任何需要的人提供高可见度的材料。
 
-[订购RSA高能见度背心](https://www.rsaorders.ie/orders-online/)
+[订购 RSA 高能见度背心 在新浏览器选项卡中打开](https://www.rsaorders.ie/orders-online/)
 
 我们的研究表明，儿童在 12 岁之前没有能力安全地与交通互动。在这个年龄段之前，他们的判断能力以及对速度和距离的感知还没有完全发展。这就是为什么他们需要成人的帮助才能安全地行走和过马路。
 

@@ -13,17 +13,19 @@ updated: "2026-07-16"
 
 作为任何车辆的成年乘客，即使不是您自己的车辆，您也应该承担个人责任，以确保您的安全旅行。
 
-** **
+您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)
+
+---
 
 ## 系好安全带——这是法律
 
 无论旅程长短，您都应该始终系好安全带。碰撞可能会在一瞬间发生，如果您没有系安全带，即使是紧急制动也会对您造成严重伤害。
 
-如果您年满 17 岁，[法律规定您有责任系好安全带。](http://www.irishstatutebook.ie/eli/2006/si/240/made/en/print) 除了严重受伤的风险外，如果您被发现未系安全带，您还将面临被罚款 2,000 欧元的风险。
+如果您年满 17 岁，[法律规定您有责任系好安全带。在新的浏览器选项卡中打开](http://www.irishstatutebook.ie/eli/2006/si/240/made/en/print) 除了严重受伤的风险外，如果被发现未系安全带，您还将面临被罚款 2,000 欧元的风险。
 
 请记住，如果没有妥善保护您，您也可能会严重伤害司机或其他乘客。
 
-** **
+---
 
 ## 公交车和出租车司机的责任
 
@@ -31,11 +33,11 @@ updated: "2026-07-16"
 
 对于 17 岁以下的乘客，出租车司机有责任确保他们被正确限制在车内。如果司机被发现与该年龄段的乘客不系安全带，将面临最高 2,000 欧元的罚款，并最多被扣 5 分。
 
-【查看爱尔兰罚分制度】(https://www.rsa.ie/services/licensed-drivers/penalty-points)
+[查看爱尔兰罚分制度](https://www.rsa.ie/services/licensed-drivers/penalty-points)
 
 **公交车和出租车司机没有义务搭载任何拒绝系安全带的乘客。**
 
-** **
+---
 
 ## 如何正确系安全带
 
@@ -43,7 +45,7 @@ updated: "2026-07-16"
 
 安全带的位置非常重要。通过对安全带在身体上的位置进行简单的修正，就可以极大地减轻碰撞中受伤的严重程度。
 
-![图片1：巴士安全带](https://www.rsa.ie/images/default-source/in-page-full-width-(868-x-487)/bus-seatbelt.jpg?Status=Master&sfvrsn=36f3b3e_1)
+![图1：巴士安全带](https://www.rsa.ie/images/default-source/in-page-full-width-(868-x-487)/bus-seatbelt.jpg?Status=Master&sfvrsn=36f3b3e_1)
 要正确佩戴安全带，您必须：
 
 1. 留出足够的多余带子，并将安全带插入带扣中。
@@ -56,24 +58,24 @@ updated: "2026-07-16"
 
 一些公共汽车和汽车配有肩部高度调节器，可帮助将安全带固定在肩膀上。
 
-** **
+---
 
 ## 针对巴士乘客的额外安全建议
 
-公交车司机有义务通过以下一种或多种方法告知乘客需要系安全带：
-
-* 司机或售票员的通知
+公交车司机有义务通过以下一种或多种方法告知乘客需要系安全带：* 司机或售票员的通知
 * 如果乘客完全由一个团体或集会组成，则由快递员、护送人员、领队、主管或巴士司机发出通知。
 * 视听演示，例如视频
 * 每个座位位置均显着标有提供安全带的标志
-* 每个座位位置均显着显示象形图，并提供安全带。有些公交车只有腰带。要正确佩戴这些，您应该：
+* 每个座位位置均显着显示象形图，并提供安全带。
+
+有些公交车只有腰带。要正确佩戴这些，您应该：
 
 * 扣上腰带
 * 将其放置在您的骨盆上
 
-*收紧任何松弛部分。
+* 收紧任何松弛部分。
 
-同样的定位也适用于使用成人安全带和[儿童汽车座椅（高靠背增高器）](https://www.rsa.ie/road-safety/road-users/passengers/children/child-seats) 的儿童。
+同样的定位也适用于使用成人安全带和[儿童汽车座椅（高靠背增高器)](https://www.rsa.ie/road-safety/road-users/passengers/children/child-seats) 的儿童。
 
 如果发生碰撞，巴士上的可移动物品可能会变成导弹，并对您和巴士上的其他人造成严重伤害。您应将所有行李和大件或重件存放在巴士后备箱或提供的行李区。如果这些都没有，就像飞机一样，您应该将这些物品存放在您自己的座位下方或您前面的座位下方。请特别注意可能会伸出走道的行李带和绳子。
 
@@ -102,7 +104,9 @@ updated: "2026-07-16"
 
 还提供其他设施，例如“跪式”巴士，特别是在城市地区，巴士会“跪下”或降低到道路边缘，以便轮椅使用者或推着婴儿车的人轻松上下车。其他公交车可能设有坡道以方便这些用户。
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)[否](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)
+
+[否](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)
 
 ---
 

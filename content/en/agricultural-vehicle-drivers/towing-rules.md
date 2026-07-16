@@ -27,10 +27,12 @@ An authorisation plate is a national weights and dimensions plate on an agricult
 
 ## Plating rules
 
-| **Year of manufacture** | **Requirements** |
-| --- | --- |
-| Manufactured on or after 1 January 2016 | They must be plated. |
-| Manufactured before 1 January 2016 | They will only need to be plated if: The agricultural tractor has a maximum design speed of more than 40 km/h or is being used to draw a tandem or tri-axle rigid drawbar trailer with a laden weight over 19 tonnes for tandems and 22.5 tonnes for triaxles. The agricultural trailer is capable by design of being drawn at speeds over 40 km/h or is operating at laden weights exceeding 19 tonnes for tandems and 22.5 tonnes for triaxles. |
+**Year of manufacture****Requirements**
+Manufactured on or after 1 January 2016 They must be plated.
+Manufactured before 1 January 2016 They will only need to be plated if:
+The agricultural tractor has a maximum design speed of more than 40 km/h or is being used to draw a tandem or tri-axle rigid drawbar trailer with a laden weight over 19 tonnes for tandems and 22.5 tonnes for triaxles.
+
+The agricultural trailer is capable by design of being drawn at speeds over 40 km/h or is operating at laden weights exceeding 19 tonnes for tandems and 22.5 tonnes for triaxles.
 
 For more information[Download and read our Revised Standards for Agricultural Vehicles](https://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?Status=Master&sfvrsn=670b2fb7_5 "Download and read our Revised Standards for Agricultural Vehicles").
 
@@ -52,7 +54,7 @@ It is usually located in the cab under driver’s seat or over the brake pedal, 
 
 You must adhere to the lesser of the two weights.
 
-To find out the maximum weight your trailer can carry, subtract the trailer’s unladen or empty weight from its maximum permitted weight as shown in the diagram below. However, the maximum weight cannot exceed the weight limits as outlined in [S.I. No. 5/2003 Open in new browser tab Open in new browser tab](https://www.irishstatutebook.ie/eli/2003/si/5/made/en/print) - Road Traffic (Construction and Use of Vehicles) Regulations 2003. If you are still unsure, contact the vehicle manufacturer or authorised distributor.
+To find out the maximum weight your trailer can carry, subtract the trailer’s unladen or empty weight from its maximum permitted weight as shown in the diagram below. However, the maximum weight cannot exceed the weight limits as outlined in [S.I. No. 5/2003](https://www.irishstatutebook.ie/eli/2003/si/5/made/en/print) - Road Traffic (Construction and Use of Vehicles) Regulations 2003. If you are still unsure, contact the vehicle manufacturer or authorised distributor.
 
 ![Image 4](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/trailer-max-load-authorisation-plate.jpg?Status=Master&sfvrsn=a2969e21_6)
 
@@ -88,7 +90,7 @@ Most vintage tractors would not be capable by design of exceeding 40 km/h howeve
 
 No. However operators of this type of equipment must adhere to the equipment manufacturer’s specifications provided that the equipment when laden is not heavier than the manufacturer’s rated towing capacity of their tractor.
 
-In this case your tractor or trailer combination is considered to be used in a commercial capacity and therefore all the rules that apply to commercial vehicles will apply here. The trailer must also meet the plating requirements for commercial vehicles as set out in [CVRT Manuals Open in new browser tab Open in new browser tab](https://www.cvrt.ie/en-US/About-CVRT/New-CVR-Testing-Manuals/). For further information email [cvrtadmin@rsa.ie](mailto:cvrtadmin@rsa.ie).
+In this case your tractor or trailer combination is considered to be used in a commercial capacity and therefore all the rules that apply to commercial vehicles will apply here. The trailer must also meet the plating requirements for commercial vehicles as set out in [CVRT Manuals](https://www.cvrt.ie/en-US/About-CVRT/New-CVR-Testing-Manuals/). For further information email [cvrtadmin@rsa.ie](mailto:cvrtadmin@rsa.ie).
 
 No. The only time you can use it in public is when you are bringing it to a plating centre and have a new plate fitted. Even then you must not carry a load and you must have an appointment date.
 

@@ -10,6 +10,8 @@ updated: "2026-07-16"
 
 This page offers information on the lighting requirements and exemptions for agricultural vehicles.
 
+You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
+
 ## General Rules
 
 ### Agricultural tractors and self-propelled agricultural equipment
@@ -79,6 +81,8 @@ Road traffic regulations ban the use of white lights to the rear of any vehicle 
 For further information on the correct operation of agricultural machinery including lighting,Download and read our [Revised Standards for Agricultural Vehicles.](http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?sfvrsn=670b2fb7_5)
 
 You can also view our videos which visually demonstrate these rules.
+
+You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/agricultural/lighting-and-visibility-laws-for-agricultural-vehicles#)
 
 IMPORTANT! This content is for general information only. It does not, and is not intended to, provide legal or technical advice or to represent a legal interpretation of the matters it addresses.
 

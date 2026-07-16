@@ -69,7 +69,7 @@ updated: "2026-07-16"
 
 [道路安全电动滑板车我们新的电视主导的电动滑板车活动旨在提高对电动滑板车新法律的认识。](https://www.rsa.ie/road-safety/campaigns/e-scooters)
 
-** **
+---
 
 ## 电动滑板车常见问题解答
 
@@ -116,7 +116,7 @@ updated: "2026-07-16"
 
 电动滑板车技术要求设定了构造标准，包括电气要求和坚固性，以及适当的 CE 标志。电动滑板车必须符合 [欧盟机械指令 2006/42/EC](https://eur-lex.europa.eu/eli/dir/2006/42/oj)，并具有适当的符合性声明。某些标准也可以通过符合技术标准 I.S. 来证明。 EN 17128:2020。
 
-请参阅[S.I. 2024年道路交通（电动滑板车）条例2024年第199号]（https://www.irishstatutebook.ie/eli/2024/si/199/made/en/print）了解更多详细技术要求。
+请参阅[S.I. 2024年道路交通（电动滑板车)条例2024年第199号](https://www.irishstatutebook.ie/eli/2024/si/199/made/en/print)了解更多详细技术要求。
 
 **如果您的电动滑板车不符合当前的立法要求，您在公共场所使用它仍然是非法的。它将受到爱尔兰警察局的强制执行，并可能被没收。**
 
@@ -128,9 +128,13 @@ updated: "2026-07-16"
 
 不可以，电动滑板车没有 NCT，但是根据道路交通法，车主和/或驾驶员必须确保其车辆在公共场所使用时始终处于适合道路行驶的状态。所有零件和设备必须处于良好的工作状态。如果不这样做可能会导致起诉。
 
-由于公共交通车辆封闭范围内电动滑板车锂离子电池的安全问题，国家交通管理局 (NTA) [宣布](https://www.nationaltransport.ie/news/prohibition-of-e-scooters-on-public-transport-for-safety-reasons-announced/) 电动滑板车将从 10 月初起禁止乘坐公共交通工具。有关这方面的更多信息可以在他们的[指导文件](https://www.nationaltransport.ie/publications/advice-note-on-the-carriage-of-e-scooters-on-public-transport/) 中找到。
+由于公共交通车辆封闭范围内电动滑板车锂离子电池的安全问题，国家交通管理局 (NTA)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/e-scooters#)[否](http://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/e-scooters#)
+[宣布](https://www.nationaltransport.ie/news/prohibition-of-e-scooters-on-public-transport-for-safety-reasons-announced/) 电动滑板车将从 10 月初起禁止乘坐公共交通工具。有关这方面的更多信息可以在他们的[指导文件](https://www.nationaltransport.ie/publications/advice-note-on-the-carriage-of-e-scooters-on-public-transport/) 中找到。
+
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/e-scooters#)
+
+[否](http://www.rsa.ie/road-safety/road-users/special-purpose-vehicles/e-scooters#)
 
 ---
 

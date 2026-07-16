@@ -4,7 +4,7 @@ source: "https://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycli
 updated: "2026-07-16"
 ---
 
-#安全骑摩托车
+# 安全骑摩托车
 
 道路使用者
 ### 为摩托车新手和经验丰富的摩托车手提供有关安全摩托车的一般建议和信息。
@@ -17,40 +17,38 @@ updated: "2026-07-16"
 
 关于如何获得驾照并成为一名安全、合格的驾驶员的分步指导。
 
-** **
+---
 
 ## 更安全的摩托车
 
 观看并了解为什么您需要成为一名熟练、安全的摩托车手
 
-您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)
-
-** **
+---
 
 ## 培训的重要性
 
 无论您是刚刚开始骑自行车、长期缺席后重新骑自行车，还是希望提高骑行技能的合格摩托车手，始终保持安全至关重要。这将确保您度过许多愉快的安全骑摩托车时光。了解安全和对社会负责的骑行原则将帮助您实现这一目标。
 
-摩托车驾驶执照有【四种类别】（https://www.rsa.ie/services/learner-drivers/get-qualified），每种类别都有特定的摩托车培训要求。
+摩托车驾驶执照分为[四种类别](https://www.rsa.ie/services/learner-drivers/get-qualified)，每种类别都有特定的摩托车培训要求。
 
 获得摩托车驾驶执照有四个步骤：
 
-1. 准备并通过摩托车【理论考试】（https://www.rsa.ie/services/learner-drivers/theory-test/what-it-is）。
+1. 准备并通过摩托车[理论考试](https://www.rsa.ie/services/learner-drivers/theory-test/what-it-is)。
 2. 申请您的[学习许可证](https://www.rsa.ie/services/learner-drivers/learner-permit/what-it-is)。
 3. 完成[初始基础培训](https://www.rsa.ie/services/learner-drivers/driving-lessons/motorcycling-lessons-(ibt)) – 您的培训将取决于您想要获得执照的摩托车的[类别](https://www.rsa.ie/services/learner-drivers/get-qualified/motorcycle-any-size-and-motor-tricycle---a)。
 4. 准备并通过[驾驶考试](https://www.rsa.ie/services/learner-drivers/the-driving-test)。
 
-** **
+---
 
-[服务 MyRoadSafety 门户 您现在可以在 MyRoadSafety 上在线轻松管理所有驾驶员服务、测试、许可证和执照。在新浏览器选项卡中打开](https://myroadsafety.rsa.ie/)
+[服务 MyRoadSafety 门户 您现在可以在 MyRoadSafety 上在线轻松管理所有驾驶员服务、测试、许可证和执照。](https://myroadsafety.rsa.ie/)
 
-** **
+---
 
 ## 摩托车安全
 
 [下载“这是你的自行车”-我们的摩托车安全手册 pdf | 1892 KB](https://www.rsa.ie/docs/default-source/road-safety/r1.3-motorcyclists/this_is_your_bike.pdf?sfvrsn=b10c6282_13)
 
-** **
+---
 
 ## 防止自满
 
@@ -58,33 +56,37 @@ updated: "2026-07-16"
 
 提高安全意识和更好的培训是减少摩托车手伤亡的关键。更安全的摩托车是我们即将推出的 2021-2030 年道路安全战略的重要组成部分。
 
-** **
+---
 
 ## 摩托车碰撞统计
 
-在爱尔兰的碰撞统计中，摩托车手的比例过高。它们占有执照车辆的不到 2%，但占道路死亡人数的 10%。摩托车手在爱尔兰道路上死亡的可能性是其他道路使用者的六倍。[道路使用者分析](https://www.rsa.ie/road-safety/statistics/analysis-of-road-users)
+在爱尔兰的碰撞统计中，摩托车手的比例过高。它们占有执照车辆的不到 2%，但占道路死亡人数的 10%。摩托车手在爱尔兰道路上死亡的可能性是其他道路使用者的六倍。
 
-爱尔兰在这方面并不罕见。在欧洲，摩托车手死于道路碰撞的风险是其他道路使用者的 18 倍_（来源：欧洲道路安全观察站 – ERSO _）_。虽然过去十年欧洲每年道路死亡人数有所下降，但 13 个国家的摩托车骑手死亡人数却有所增加。
+[道路使用者分析](https://www.rsa.ie/road-safety/statistics/analysis-of-road-users)爱尔兰在这方面并不罕见。在欧洲，摩托车手死于道路碰撞的风险是其他道路使用者的 18 倍_（来源：欧洲道路安全观察站 – ERSO _)_。虽然过去十年欧洲每年道路死亡人数有所下降，但 13 个国家的摩托车骑手死亡人数却有所增加。
 
 [2020 年道路安全关键数据 pdf | 658 KB](https://www.rsa.ie/docs/default-source/road-safety/road-safety-key-figures-2020.pdf?sfvrsn=887c843_0)
 
-** **
+---
 
 ## 摩托车的脆弱性
 
 缺乏保护壳加上高速意味着摩托车将始终是一种潜在的易受攻击的交通方式。但是，您可以通过采取一些简单的预防措施来大大降低风险，例如专业培训、穿戴适当的个人防护装备 (PPE) 以及确保正确维护您的摩托车。
 
-【摩托车安全钳 摩托车安全钳。摩托车手的个人防护装备 (PPE) 包括适合所有天气条件的头盔、手套、夹克和裤子。](https://www.rsa.ie/road-safety/road-users/motorcyclists/safety-gear)[任何尺寸的摩托车和机动三轮车 - A 获得骑乘任何尺寸的摩托车和机动三轮车资格的步骤 - A](https://www.rsa.ie/services/learner-drivers/get-qualified/motorcycle-any-size-and-motor-tricycle---a)
+[摩托车安全钳 摩托车安全钳。摩托车手的个人防护装备 (PPE) 包括适合所有天气条件的头盔、手套、夹克和裤子。](https://www.rsa.ie/road-safety/road-users/motorcyclists/safety-gear)
 
-** **
+[任何尺寸的摩托车和机动三轮车 - A 获得骑乘任何尺寸的摩托车和机动三轮车资格的步骤 - A](https://www.rsa.ie/services/learner-drivers/get-qualified/motorcycle-any-size-and-motor-tricycle---a)
+
+---
 
 ## 活动
 
-【摩托车安全 松开油门。这项运动要求摩托车手减速并“松开油门”，因为摩托车手超速是造成摩托车手致命碰撞事故的三分之一的一个因素。](https://www.rsa.ie/road-safety/campaigns/motorcycle-safety)
+[摩托车安全 松开油门。这项运动要求摩托车手减速并“松开油门”，因为摩托车手超速是造成摩托车手致命碰撞事故的三分之一的一个因素。](https://www.rsa.ie/road-safety/campaigns/motorcycle-safety)
 
-** **
+---
 
 ## 摩托车手的重要提示
+
+确保您每次骑车时佩戴的安全头盔和防护服符合[CE认证标准]。(https://ec.europa.eu/docsroom/documents/24722/attachments/1/translations/en/renditions/native)
 
 * 头盔应紧密贴合并正确紧固。
 * 面罩应干净、清晰。
@@ -111,9 +113,9 @@ updated: "2026-07-16"
 
 * 切勿在饮酒或吸毒后骑摩托车。
 
-* 正确保养您的摩托车。定期检查汽油、机油、水、损坏情况、电气和轮胎。
+* 正确保养您的摩托车。定期检查汽油、机油、水、损坏情况、电气和轮胎。* 接受[RSA 认可驾驶教练 (ADI)](https://www.rsa.ie/services/learner-drivers/driving-lessons/find-an-instructor/approved-driving-instructor) 的培训。
 
-* 接受[RSA 认可驾驶教练 (ADI)](https://www.rsa.ie/services/learner-drivers/driving-lessons/find-an-instructor/approved-driving-instructor) 的培训。研究表明，导致致命摩托车事故的四个主要因素是：
+研究表明，导致致命摩托车事故的四个主要因素是：
 
 1. 摩托车手超越另一辆右转车辆，导致摩托车手迎头撞上正在转弯的车辆侧面。
 
@@ -123,11 +125,11 @@ updated: "2026-07-16"
 
 4. 另一辆车（小汽车、货车、卡车）转弯或行驶通过路口/从小路加入主路并与摩托车手相撞。
 
-车辆同向行驶时超车
-
 上一页 下一页
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)[否](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)
+
+[否](http://www.rsa.ie/road-safety/road-users/motorcyclists/safe-motorcycling#)
 
 ---
 

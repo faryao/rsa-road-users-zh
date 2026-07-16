@@ -135,7 +135,7 @@ Wearing reflective armbands, high-visibility belts or vests and other reflective
 
 We offer high-visibility materials to anyone who wants some.
 
-[Order an RSA high-visibility vest](https://www.rsaorders.ie/orders-online/)
+[Order an RSA high-visibility vest Open in new browser tab](https://www.rsaorders.ie/orders-online/)
 
 Our research shows that children do not have the ability to safely interact with traffic until they are 12 years old. Before this age, their judgement skills and perception of speed and distance haven’t fully developed. This is why they need the help of an adult to safely walk on and cross the road.
 

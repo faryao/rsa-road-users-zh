@@ -48,12 +48,24 @@ async function translateMarkdown(md) {
   const translated = [];
   for (const chunk of chunks) { translated.push(await translateText(chunk)); await sleep(120); }
   const zhTitle = await translateText(title);
-  const normalized = translated.join('')
+  let normalized = translated.join('')
     .replace(/^(#+)\s+(#+)\s+/gm, (_, a, b) => `${a}${b} `)
     .replace(/^(#{1,6})(?=\S)/gm, '$1 ')
     .replace(/^【([^\n]+)\]\(/gm, '[$1](')
     .replace(/^【([^\n]+)】\(/gm, '[$1](')
-    .replace(/^\*\* \*\*$/gm, '---');
+    .replace(/【([^】\n]+)】\s*（(https?:\/\/[^）\n]+)）/g, '[$1]($2)')
+    .replace(/\[([^\]\n]+)\]\s*（(https?:\/\/[^）\n]+)）/g, '[$1]($2)')
+    .replace(/【([^】\n]+)】\((https?:\/\/[^)\n]+)\)/g, '[$1]($2)')
+    .replace(/】\s*\((https?:\/\/)/g, ']($1')
+    .replace(/】\s*（(https?:\/\/)/g, ']($1')
+    .replace(/\]\s*（(https?:\/\/[^“）\n]+)(?:“[^”]*”)?）/g, ']($1)')
+    .replace(/^(#{1,6} .+?)([*+-] )/gm, '$1\n\n$2')
+    .replace(/\)\s*\[/g, ')\n\n[')
+    .replace(/^\*\* \*\*/gm, '---\n')
+    .replace(/^\*([^ *\n])/gm, '* $1');
+  normalized = normalized.split('\n').map(line => /https?:\/\//.test(line)
+    ? line.replaceAll('【', '[').replaceAll('】', ']').replace(/（(?=https?:\/\/)/g, '(').replace(/）/g, ')')
+    : line).join('\n');
   return `---\ntitle: "${zhTitle}"\nsource: "${source}"\nupdated: "${new Date().toISOString().slice(0,10)}"\n---\n\n${normalized}\n\n---\n\n[查看 RSA 当前官方页面](${source})\n`;
 }
 

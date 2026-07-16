@@ -19,13 +19,13 @@ If used on a public road, which includes a footpath, quads are subject to all of
 
 If used in a public place quads must comply with the following*:
 
-[S.I. No. 5 of 2003 - Road Traffic Construction and Use of Vehicles Regulations Open in new browser tab](http://www.irishstatutebook.ie/eli/2003/si/5/made/en/print)
+[S.I. No. 5 of 2003 - Road Traffic Construction and Use of Vehicles Regulations](http://www.irishstatutebook.ie/eli/2003/si/5/made/en/print)
 
-[S.I. No. 190 of 1963 - Road Traffic Construction, Equipment and Use of Vehicles Regulations Open in new browser tab](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)
+[S.I. No. 190 of 1963 - Road Traffic Construction, Equipment and Use of Vehicles Regulations](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)
 
-[S.I. No. 189 of 1963 - Road Traffic Lighting of Vehicles Open in new browser tab](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print)
+[S.I. No. 189 of 1963 - Road Traffic Lighting of Vehicles](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print)
 
-_*These regulations are in original format and amendments can be viewed at_[www.irishstatutebook.ie Open in new browser tab](https://www.irishstatutebook.ie/)
+_*These regulations are in original format and amendments can be viewed at_[www.irishstatutebook.ie](https://www.irishstatutebook.ie/)
 
 * * *
 
@@ -43,13 +43,13 @@ If used on a public road, quads are subject to all of the regulatory controls th
 
 If used in a public place quads must comply with the following*:
 
-[S.I. No. 5 of 2003 - Road Traffic Construction and Use of Vehicles Regulations Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/2003/si/5/made/en/print)
+[S.I. No. 5 of 2003 - Road Traffic Construction and Use of Vehicles Regulations](http://www.irishstatutebook.ie/eli/2003/si/5/made/en/print)
 
-[S.I. No. 190 of 1963 - Road Traffic Construction, Equipment and Use of Vehicles Regulations Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)
+[S.I. No. 190 of 1963 - Road Traffic Construction, Equipment and Use of Vehicles Regulations](http://www.irishstatutebook.ie/eli/1963/si/190/made/en/print)
 
-[S.I. No. 189 of 1963 - Road Traffic Lighting of Vehicles Open in new browser tab Open in new browser tab](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print)
+[S.I. No. 189 of 1963 - Road Traffic Lighting of Vehicles](http://www.irishstatutebook.ie/eli/1963/si/189/made/en/print)
 
-_*These regulations are in original format and amendments can be viewed at_[www.irishstatutebook.ie Open in new browser tab Open in new browser tab](https://www.irishstatutebook.ie/)
+_*These regulations are in original format and amendments can be viewed at_[www.irishstatutebook.ie](https://www.irishstatutebook.ie/)
 
 [Can I tow a trailer with a quad on a public road?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
@@ -61,11 +61,11 @@ Yes.
 
 [What licence is required to drive a quad?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
-The type of licence will depend on the weight and power of the quad bike. For information on driving licences see breakdown of [licence categories Open in new browser tab Open in new browser tab](https://www.ndls.ie/licence-categories.html).
+The type of licence will depend on the weight and power of the quad bike. For information on driving licences see breakdown of [licence categories](https://www.ndls.ie/licence-categories.html).
 
 [Can minors use quad bikes?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
-Quad bikes used in a public place require the driver to have a licence. Therefore, the minimum age is 16 for light quads 350 kg or less with a maximum design speed of not more than 45 km/h otherwise it is 17 years. Minors using quad bikes on private property fall under the remit of [Health and Safety Authority Open in new browser tab Open in new browser tab](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/). Further information can be found on the[HSA’s website Open in new browser tab Open in new browser tab](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/ "https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/").
+Quad bikes used in a public place require the driver to have a licence. Therefore, the minimum age is 16 for light quads 350 kg or less with a maximum design speed of not more than 45 km/h otherwise it is 17 years. Minors using quad bikes on private property fall under the remit of [Health and Safety Authority](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/). Further information can be found on the[HSA’s website](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/ "https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/").
 
 [Are roll over bars required to be fitted to quad bikes?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
@@ -77,15 +77,15 @@ No. But if one is fitted it should be worn.
 
 [What safety aspects do I need to take into account before driving a quad bike?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
-The HSA have general information for the safe use of quad bikes (ATVs) in Agriculture and Forestry on their [webpage Open in new browser tab Open in new browser tab](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/).
+The HSA have general information for the safe use of quad bikes (ATVs) in Agriculture and Forestry on their [webpage](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/atvs_quad_bikes/).
 
 [Do I need to undertake a training course before driving a quad bike?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
- From 20 November 2023 there is a requirement to undertake a registered training course with a registered training provider to a QQI standard or equivalent. More information can be found on the HSA's [webpage Open in new browser tab Open in new browser tab](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/vehicles/). 
+ From 20 November 2023 there is a requirement to undertake a registered training course with a registered training provider to a QQI standard or equivalent. More information can be found on the HSA's [webpage](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/vehicles/). 
 
 [How do I register a quad bike?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
-You will need to contact [Revenue Open in new browser tab Open in new browser tab](http://www.revenue.ie/en/importing-vehicles-duty-free-allowances/guide-to-vrt/vehicle-registration-tax/index.aspx).
+You will need to contact [Revenue](http://www.revenue.ie/en/importing-vehicles-duty-free-allowances/guide-to-vrt/vehicle-registration-tax/index.aspx).
 
 [Where can I get a CoC to register my quad?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
@@ -93,7 +93,7 @@ You will need to contact the original manufacturer. If the manufacturer cannot s
 
 [Is it a requirement to wear a helmet when riding on or driving quads?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 
-From 20 November 2023 new health and safety regulations come into effect governing the safe use of ATV/Quad Bikes in all workplaces, which requires the use of helmets to a (generally) prescribed standard to be worn. We strongly recommend that you always wear a helmet for your own safety. More information on this can be found on the HSA’s [webpage Open in new browser tab Open in new browser tab](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/vehicles/).
+From 20 November 2023 new health and safety regulations come into effect governing the safe use of ATV/Quad Bikes in all workplaces, which requires the use of helmets to a (generally) prescribed standard to be worn. We strongly recommend that you always wear a helmet for your own safety. More information on this can be found on the HSA’s [webpage](https://www.hsa.ie/eng/your_industry/agriculture_forestry/vehicles_machinery/vehicles/).
 
 [Can I carry a passenger on a quad?](http://www.rsa.ie/road-safety/road-users/agricultural/quad-bikes#)
 

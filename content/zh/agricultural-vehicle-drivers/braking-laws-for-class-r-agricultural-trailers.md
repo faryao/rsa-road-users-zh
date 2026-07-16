@@ -18,7 +18,7 @@ updated: "2026-07-16"
 |驻车制动 - 最低制动效率为 16% |驻车制动 - 最低制动效率为 16% |
 |分离制动器 - 最低制动效率为 13.5% |分离制动器 - 最低制动效率为 13.5% |
 
-*DGVW ​​是车辆设计总重，也称为拖车板上的 MAM（最大授权质量），是车辆或拖车的重量，包括根据制造商的设计规格可以承载的最大负载。
+* DGVW ​​是车辆设计总重，也称为拖车板上的 MAM（最大授权质量），是车辆或拖车的重量，包括根据制造商的设计规格可以承载的最大负载。
 
 * 2016 年 1 月 1 日或之后制造的设计速度超过 40 公里/小时的拖车还必须配备包括负载感应功能的气动制动系统。
 * 2016 年 1 月 1 日或之后制造的设计速度超过 60 公里/小时的拖车必须配备防抱死制动系统 (ABS)。
@@ -34,7 +34,7 @@ updated: "2026-07-16"
 
 ## 常见问题
 
-[如果我的拖车或可互换牵引设备无法安装防抱死制动系统（ABS）怎么办？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
+[如果我的拖车或可互换牵引设备无法安装防抱死制动系统（ABS)怎么办？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
 
 如果您的拖车或可互换牵引设备是在 2016 年 1 月 1 日之前制造的，则无需改装 ABS。
 
@@ -46,7 +46,7 @@ updated: "2026-07-16"
 
 [哪里可以检查我生产的农用拖车的制动效率？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
 
-您可以将车辆带到当地的商用车适航性测试中心（[CVRT 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.cvrt.ie/en-US/Find-a-test-centre/)）并完成制动测试。这可能会收取一定的费用，并且是您和考试中心之间的私人安排。
+您可以将车辆带到当地的商用车适航性测试中心（[CVRT 在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://www.cvrt.ie/en-US/Find-a-test-centre/))并完成制动测试。这可能会收取一定的费用，并且是您和考试中心之间的私人安排。
 
 [带有负载传感装置的拖车或牵引设备是否可以在板上仅显示空载和满载两种负载条件的设置？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
 
@@ -64,7 +64,9 @@ updated: "2026-07-16"
 
 重要！此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。 
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
 
 感谢您的反馈。
 

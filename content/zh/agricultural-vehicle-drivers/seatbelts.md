@@ -25,7 +25,9 @@ updated: "2026-07-16"
 
 是的。我们建议由具有适当资格的人员 (SQI) 按照制造商的规格进行安装，并满足 [(EU) No 167/2013 法规的基本技术规定。在新浏览器选项卡中打开 在新浏览器选项卡中打开](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R0167&rid=2)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/seatbelts-on-agricultural-tractors#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/seatbelts-on-agricultural-tractors#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/seatbelts-on-agricultural-tractors#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/seatbelts-on-agricultural-tractors#)
 
 感谢您的反馈。
 

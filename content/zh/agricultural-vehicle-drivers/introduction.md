@@ -16,6 +16,14 @@ updated: "2026-07-16"
 
 我们的视频解释了在道路上使用农用车辆时适用的许多标准和法规。
 
+您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)
+
+[上一页](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
+
+[下一页](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
+
+RSA - 农用车辆 - 简介
+
 上一页 下一页* [RSA - 农用车辆 - 简介！[图片 7](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---agriculture-vehicles---introduction.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 * [RSA - 农用车辆 - 制动！[图片 8](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---agriculture-vehicles---braking.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 * [RSA - 农用车辆 - 照明和能见度！[图片 9：RSA - 农用车辆 - 照明和能见度](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---agriculture-vehicles---lighting-visibility.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
@@ -26,6 +34,8 @@ updated: "2026-07-16"
 * [RSA - 确保您拥有有效的许可证！[图片 14](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---make-sure-you-have-a-valid-licence.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 * [RSA - 确保您的负载安全！[图片 15](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---make-sure-your-load-is-secure.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
 * [RSA - 与其他道路使用者共享道路！[图片 16](http://www.rsa.ie/images/default-source/2-up-layout-(350x306)/rsa---sharing-the-road-with-other-road-users.tmb-.jpg)](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#/)
+
+上一页 下一页
 
 [下载并阅读我们的农用车辆修订标准 pdf | 1448 KB](http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?sfvrsn=670b2fb7_5)
 
@@ -40,7 +50,7 @@ updated: "2026-07-16"
 
 ## 快速拖拉机测试
 
-如果您的拖拉机的最大设计速度超过 40 公里/小时并用于商业用途，则可能需要定期进行[道路适航性测试](https://www.cvrt.ie/en-US/About-CVRT/Fast-Tractor-Testing/) 并出示适航证书 (CRW)。
+如果您的拖拉机的最大设计速度超过 40 公里/小时并用于商业用途，则可能需要定期进行[适航性测试 在新浏览器选项卡中打开](https://www.cvrt.ie/en-US/About-CVRT/Fast-Tractor-Testing/) 并出示适航性证书 (CRW)。
 
 [返回顶部](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#top)
 
@@ -48,9 +58,15 @@ updated: "2026-07-16"
 
 ## 相关页面
 
-[立法爱尔兰道路上使用的车辆的道路交通立法。新车型式批准立法。爱尔兰和欧盟安全和环境标准。了解更多](http://www.rsa.ie/road-safety/road-users/legislation)[改装车辆 改装或改装车辆的车辆标准。改装车辆的降级和升级。改装 M1 和 N1 车辆。重新分类规则。了解更多](http://www.rsa.ie/road-safety/road-users/car-drivers/vehicle-modifications)[获得资格 从 RSA 获得合格的指导和建议。学习驾驶。选择您的车辆和许可证类别。成为一名安全合格驾驶员的步骤。了解更多](http://www.rsa.ie/services/learner-drivers/get-qualified)
+[立法爱尔兰道路上使用的车辆的道路交通立法。新车型式批准立法。爱尔兰和欧盟安全和环境标准。了解更多](http://www.rsa.ie/road-safety/road-users/legislation)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)
+[改装车辆 改装或改装车辆的车辆标准。改装车辆的降级和升级。改装 M1 和 N1 车辆。重新分类规则。了解更多](http://www.rsa.ie/road-safety/road-users/car-drivers/vehicle-modifications)
+
+[获得资格 从 RSA 获得合格的指导和建议。学习驾驶。选择您的车辆和许可证类别。成为一名安全合格驾驶员的步骤。了解更多](http://www.rsa.ie/services/learner-drivers/get-qualified)
+
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/introduction-to-vehicle-standards-for-agricultural-vehicles#)
 
 感谢您的反馈。
 

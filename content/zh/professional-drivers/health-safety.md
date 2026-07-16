@@ -18,7 +18,7 @@ updated: "2026-07-16"
 
 业主、经营者、雇主、经理和主管必须依法管理员工开车上班时面临和产生的风险。
 
-** **
+---
 
 ## 适用于雇主和经营者的法律
 
@@ -48,7 +48,7 @@ updated: "2026-07-16"
 * [负载安全](https://www.hsa.ie/eng/Vehicles_at_Work/Load_Securing/)
 * [车辆维修保养](https://www.rsa.ie/services/business-operators/maintaining-your-vehicles)
 
-** **
+---
 
 ## 您作为雇主或经营者的义务
 
@@ -76,11 +76,11 @@ updated: "2026-07-16"
 
 您应该为员工提供适当的信息和培训，以保护他们的安全、健康和福利。
 
-** **
+---
 
 ## 寻找工作信息和资源
 
-** **
+---
 
 ## 常见问题
 
@@ -98,9 +98,11 @@ updated: "2026-07-16"
 
 我们负责执行欧盟和国家有关行车记录仪的运输立法、欧盟驾驶员工作时间规则、道路运输工作时间指令、道路和客运许可立法要素以及驾驶员 CPC。
 
-自 2009 年以来，RSA 已对违反该立法的司机和经营者提起诉讼。已完成起诉的详细信息（包括运营商名称和适用的处罚）已发布在我们的[起诉](https://www.rsa.ie/services/business-operators/road-haulage-enforcement/prosecutions) 页面上。
+自 2009 年以来，RSA 已对违反该立法的司机和经营者提起诉讼。已完成起诉的详细信息（包括运营商名称和适用的处罚)已发布在我们的[起诉](https://www.rsa.ie/services/business-operators/road-haulage-enforcement/prosecutions) 页面上。
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/professional-drivers/health-safety#)[否](http://www.rsa.ie/road-safety/road-users/professional-drivers/health-safety#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/professional-drivers/health-safety#)
+
+[否](http://www.rsa.ie/road-safety/road-users/professional-drivers/health-safety#)
 
 ---
 

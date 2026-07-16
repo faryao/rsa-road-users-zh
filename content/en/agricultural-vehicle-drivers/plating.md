@@ -52,7 +52,7 @@ No. However operators of this type of equipment must adhere to the equipment man
 
 [What rules apply if I use my agricultural tractor to pull a trailer for a purpose other than agriculture, fisheries, forestry, or horticulture?](http://www.rsa.ie/road-safety/road-users/agricultural/plating-of-agricultural-tractors#)
 
-In this case your tractor or trailer combination is considered to be used in a commercial capacity and therefore all the rules that apply to commercial vehicles will apply here. The trailer must also meet the plating requirements for commercial vehicles as set out in [CVRT Manuals](https://www.cvrt.ie/en-US/About-CVRT/New-CVR-Testing-Manuals/). For further information email [cvrtadmin@rsa.ie](mailto:cvrtadmin@rsa.ie).
+In this case your tractor or trailer combination is considered to be used in a commercial capacity and therefore all the rules that apply to commercial vehicles will apply here. The trailer must also meet the plating requirements for commercial vehicles as set out in [CVRT Manuals Open in new browser tab Open in new browser tab](https://www.cvrt.ie/en-US/About-CVRT/New-CVR-Testing-Manuals/). For further information email [cvrtadmin@rsa.ie](mailto:cvrtadmin@rsa.ie).
 
 [I have modified my tractor or trailer so the information on its manufacturers or authorisation plate is no longer accurate. Can I use this vehicle on a public road?](http://www.rsa.ie/road-safety/road-users/agricultural/plating-of-agricultural-tractors#)
 

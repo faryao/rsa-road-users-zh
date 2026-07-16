@@ -18,18 +18,9 @@ Speed ratings means fitting a speed disc to the vehicle to show its design speed
 
 The table below outlines what vehicles must have a speed disc fitted.
 
-Vehicles Speed disc required Speed disc not required
-Agricultural tractors, self-
-
-propelled agricultural machinery, agricultural trailers and pieces of interchangeable towed equipment First registered on
-
-or after 01 January 2016, regardless of design speed, must be fitted with a speed disc showing their maximum design speed.
-
-Registered prior to 01 January 2016 which are capable by design of being driven at speeds over 40 km/h, must also be fitted
-
-with speed disc.First registered prior
-
-to 01 January 2016 which are not capable by design of being driven at speeds greater than 40km/h
+| Vehicles | Speed disc required | Speed disc not required |
+| --- | --- | --- |
+| Agricultural tractors, self- propelled agricultural machinery, agricultural trailers and pieces of interchangeable towed equipment | First registered on or after 01 January 2016, regardless of design speed, must be fitted with a speed disc showing their maximum design speed. Registered prior to 01 January 2016 which are capable by design of being driven at speeds over 40 km/h, must also be fitted with speed disc. | First registered prior to 01 January 2016 which are not capable by design of being driven at speeds greater than 40km/h |
 
 Agricultural tractors, self-propelled agricultural machines, agricultural trailers, and pieces of interchangeable equipment manufactured or first registered before 01 January 2016 do not need to have a speed disc fitted if their design speed is 40 km/h or less.
 

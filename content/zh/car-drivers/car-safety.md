@@ -11,15 +11,17 @@ updated: "2026-07-16"
 
 确保您的车辆具有正确的安全功能可以在碰撞中发挥重要作用。制造商不断开发车辆安全技术，以帮助防止或减少碰撞的影响。
 
-** **
+---
 
 下面的交互式图像解释了新车中可用的一些车辆安全技术。
 
-** **
+---
 
 ## 一般安全法规 (GSR2)
 
-一般安全法规 (GSR2)，也称为法规 (EU)[2019/2144 在新浏览器选项卡中打开](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2144&from=EN)，自 2024 年 7 月 7 日起在新制造的车辆上引入了许多针对轿车、货车、公共汽车和卡车的新的强制性安全功能。其主要目标是通过提供驾驶员辅助系统来帮助保护车内人员、行人、骑自行车的人和其他道路使用者，从而减少碰撞。目标是帮助欧盟实现“零愿景”，即到 2050 年欧洲道路上零死亡和重伤的长期目标。
+一般安全法规 (GSR2)，也称为法规 (EU)
+
+[2019/2144 在新浏览器选项卡中打开](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2144&from=EN)，自 2024 年 7 月 7 日起在新制造的车辆上引入了许多针对轿车、货车、公共汽车和卡车的新的强制性安全功能。其主要目标是通过提供驾驶员辅助系统来帮助保护车内人员、行人、骑自行车的人和其他道路使用者，从而减少碰撞。目标是帮助欧盟实现“零愿景”，即到 2050 年欧洲道路上零死亡和重伤的长期目标。
 
 ### 车辆安全功能的类型
 
@@ -79,7 +81,7 @@ updated: "2026-07-16"
 | --- | --- | --- |
 | ![图41](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/tpms.png?sfvrsn=d29299f4_3) |该系统监测车辆轮胎的气压并向驾驶员提供实时反馈。该技术可以防止轮胎充气不足引起的事故。 TPMS已经应用于汽车。 | ![图 42](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/car.png?sfvrsn=389a3c4f_3)![图 43](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/bus.png?sfvrsn=eefd7f1e_3) ![图 44](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/van.png?sfvrsn=db2d94de_3)![图 45](https://www.rsa.ie/images/default-source/vehicle-standards-faqs/truck.png?sfvrsn=af585b90_3) M1、M2、M3、N1、N2 和 N3 |
 
-** **
+---
 
 ### 视频
 
@@ -91,7 +93,7 @@ RSA 自适应巡航控制
 
 下一页
 
-** **
+---
 
 ## EuroNCAP 评级如果您正在考虑购买汽车，无论是新车还是二手车，您应该首先检查您正在考虑的汽车型号的安全等级。
 
@@ -101,7 +103,7 @@ RSA 自适应巡航控制
 
 **选择所有年份以查看最新和之前的 EuroNCAP 安全评级。**
 
-** **
+---
 
 ### 有用的链接
 
@@ -111,7 +113,7 @@ RSA 自适应巡航控制
 
 如果您正在考虑购买汽车，您应该首先检查您正在考虑的汽车型号的安全等级。
 
-** **
+---
 
 ## 常见问题
 
@@ -161,9 +163,21 @@ RSA 自适应巡航控制
 
 **重要的！此内容仅供一般信息参考。它不会，也无意提供法律或技术建议，或代表其所解决问题的法律解释。**
 
-## 相关页面[汽车驾驶员 为汽车驾驶员提供道路安全建议和指导，从汽车安全和维护到销售或购买汽车和医疗健康。](https://www.rsa.ie/road-safety/road-users/car-drivers)[有关乘用车、电子呼叫、购买二手车和进口汽车、报废车辆、计时汽车、左驾车辆、电动汽车、报废车辆和套件车的常见问题解答。](https://www.rsa.ie/road-safety/road-users/car-drivers/resources)[车辆部件 重要车辆部件的信息和规定，包括车灯、安全带、玻璃和轮胎。](https://www.rsa.ie/road-safety/road-users/vehicle-components)[轻型拖车 用于家用和商业用途的轻型拖车的车辆标准。轻型拖车和重型拖车之间的区别。预告片视频和常见问题解答。](https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/light-trailers)[改装车辆 改装或改装车辆的车辆标准。改装车辆的降级和升级。改装 M1 和 N1 车辆。重新分类规则。](https://www.rsa.ie/road-safety/road-users/car-drivers/vehicle-modifications)[立法 针对爱尔兰道路上使用的车辆的道路交通立法。新车型式批准立法。爱尔兰和欧盟安全和环境标准。](https://www.rsa.ie/road-safety/road-users/legislation)
+## 相关页面[汽车驾驶员 为汽车驾驶员提供道路安全建议和指导，从汽车安全和维护到销售或购买汽车和医疗健康。](https://www.rsa.ie/road-safety/road-users/car-drivers)
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/car-drivers/car-safety#)[否](http://www.rsa.ie/road-safety/road-users/car-drivers/car-safety#)
+[有关乘用车、电子呼叫、购买二手车和进口汽车、报废车辆、计时汽车、左驾车辆、电动汽车、报废车辆和套件车的常见问题解答。](https://www.rsa.ie/road-safety/road-users/car-drivers/resources)
+
+[车辆部件 重要车辆部件的信息和规定，包括车灯、安全带、玻璃和轮胎。](https://www.rsa.ie/road-safety/road-users/vehicle-components)
+
+[轻型拖车 用于家用和商业用途的轻型拖车的车辆标准。轻型拖车和重型拖车之间的区别。预告片视频和常见问题解答。](https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/light-trailers)
+
+[改装车辆 改装或改装车辆的车辆标准。改装车辆的降级和升级。改装 M1 和 N1 车辆。重新分类规则。](https://www.rsa.ie/road-safety/road-users/car-drivers/vehicle-modifications)
+
+[立法 针对爱尔兰道路上使用的车辆的道路交通立法。新车型式批准立法。爱尔兰和欧盟安全和环境标准。](https://www.rsa.ie/road-safety/road-users/legislation)
+
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/car-drivers/car-safety#)
+
+[否](http://www.rsa.ie/road-safety/road-users/car-drivers/car-safety#)
 
 ---
 

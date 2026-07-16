@@ -42,7 +42,9 @@ updated: "2026-07-16"
 
 [在哪里可以获得有关农用拖车制动系统维护的建议？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-agricultural-tractors#)
 
-您应该咨询原始制造商或其授权经销商之一。您切勿尝试自行维修未经培训的制动系统。满载拖车可占牵引车-拖车组合动能（即移动组合产生的能量或力）的 75%，因此农用拖车配备足够的制动系统以满足其预期运行速度至关重要。它们还应该得到适当的维护，以确保它们作为牵引车-拖车组合的一部分有效工作。您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-agricultural-tractors#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-agricultural-tractors#)
+您应该咨询原始制造商或其授权经销商之一。您切勿尝试自行维修未经培训的制动系统。满载拖车可占牵引车-拖车组合动能（即移动组合产生的能量或力)的 75%，因此农用拖车配备足够的制动系统以满足其预期运行速度至关重要。它们还应该得到适当的维护，以确保它们作为牵引车-拖车组合的一部分有效工作。您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-agricultural-tractors#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-agricultural-tractors#)
 
 感谢您的反馈。
 

@@ -13,13 +13,15 @@ Road Users
 
 As an adult passenger in any vehicle, even one that's not your own, you should take personal responsibility to ensure you're travelling safely.
 
+You need to consent to targeting cookies to load this media [Review Cookie Settings](http://www.rsa.ie/road-safety/road-users/passengers/public-vehicle-passengers#)
+
 * * *
 
 ## Wear your seatbelt – it’s the law
 
 You should wear your seat belt at all times, no matter how long or short the journey is. A collision can happen in a split second and even hard braking can cause serious injury to you if you’re not wearing your seatbelt.
 
-If you are over 17, [the law states that you are responsible for wearing your seat belt.](http://www.irishstatutebook.ie/eli/2006/si/240/made/en/print) Apart from the risk of being seriously injured, you are also at risk of being fined €2,000 if you are caught not wearing your seat belt.
+If you are over 17, [the law states that you are responsible for wearing your seat belt.Open in new browser tab](http://www.irishstatutebook.ie/eli/2006/si/240/made/en/print) Apart from the risk of being seriously injured, you are also at risk of being fined €2,000 if you are caught not wearing your seat belt.
 
 Remember, you can also seriously injure the driver or your fellow passengers if you are not secured properly.
 

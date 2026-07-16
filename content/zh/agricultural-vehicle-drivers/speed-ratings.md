@@ -18,18 +18,9 @@ updated: "2026-07-16"
 
 下表概述了哪些车辆必须安装变速盘。
 
-车辆 需要速度盘 不需要速度盘
-农用拖拉机，自耕式
-
-推进式农业机械、农用拖车和可互换牵引设备首次注册于
-
-或2016年1月1日之后，无论设计速度如何，都必须安装显示其最大设计速度的速度盘。
-
-2016 年 1 月 1 日之前注册且设计能够以超过 40 公里/小时的速度行驶的车辆，还必须安装
-
-带速盘。首先注册优先
-
-至 2016 年 1 月 1 日，设计时速不能超过 40 公里/小时
+|车辆 |需要速度盘 |不需要速度盘|
+| --- | --- | --- |
+|农用拖拉机、自走式农用机械、农用拖车和可互换牵引设备| 2016 年 1 月 1 日或之后首次注册的车辆，无论设计速度如何，都必须配备显示其最大设计速度的速度盘。 2016 年 1 月 1 日之前注册且设计行驶速度超过 40 公里/小时的车辆还必须配备减速盘。 |于 2016 年 1 月 1 日之前首次注册，其设计时速无法超过 40 公里/小时 |
 
 2016 年 1 月 1 日之前制造或首次注册的农用拖拉机、自走式农业机械、农用拖车和可互换设备，如果其设计速度为 40 公里/小时或更低，则无需安装速度盘。
 
@@ -58,7 +49,9 @@ updated: "2026-07-16"
 
 [高速光盘必须遵守哪些技术规范？](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
 
-请参阅我们的小册子《农用车辆修订标准》。(http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?sfvrsn=670b2fb7_5)[如果我的拖拉机的行驶速度超过 40 公里/小时且大于拖车或牵引设备的设计速度，适用什么规则？](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
+请参阅我们的小册子《农用车辆修订标准》。(http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?sfvrsn=670b2fb7_5)
+
+[如果我的拖拉机的行驶速度超过 40 公里/小时且大于拖车或牵引设备的设计速度，适用什么规则？](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
 
 您可以用速度超过 40 公里/小时的牵引车牵引此类拖车或其他可互换的牵引设备。但如果在公共场所使用，则不得超过组合中最慢车辆的最大设计速度。例如，如果拖车或可互换牵引设备没有安装速度盘，法律认为车辆组合（无论拖拉机的设计速度是多少）的速度不能超过 40 公里/小时。
 
@@ -66,7 +59,9 @@ updated: "2026-07-16"
 
 他们必须能够保持最低 50 公里/小时的速度。如果他们牵引拖车，拖车的设计也必须能够按照其授权牌和速度盘上的指示以 50 公里/小时或更高的速度牵引。请参阅我们的 R 级农用拖车 [常见问题解答](http://www.rsa.ie/road-safety/road-users/agricultural/class-r-agricultural-trailers) 信息。
 
-您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)[否](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
+您觉得这些信息有用吗？[是](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
+
+[否](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
 
 感谢您的反馈。
 
