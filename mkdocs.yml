@@ -1,0 +1,80 @@
+site_name: RSA Road Users
+site_description: Bilingual English–Chinese reference for RSA road-user guidance
+site_url: https://faryao.github.io/rsa-road-users-zh/
+repo_url: https://github.com/faryao/rsa-road-users-zh
+repo_name: faryao/rsa-road-users-zh
+docs_dir: content
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.view
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          nav_translations:
+            Road Users: Road Users
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+            Road Users: 道路使用者
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra_css:
+  - assets/extra.css
+
+copyright: Unofficial reference translation · Always verify current guidance with the RSA
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/faryao/rsa-road-users-zh

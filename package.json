@@ -3,11 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "sync": "node scripts/sync.mjs",
-    "build": "node scripts/build.mjs",
-    "start": "python3 -m http.server 4173 -d dist"
-  },
-  "dependencies": {
-    "marked": "^15.0.12"
+    "sync": "node scripts/sync.mjs"
   }
 }
