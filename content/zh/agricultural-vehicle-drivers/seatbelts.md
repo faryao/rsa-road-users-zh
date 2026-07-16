@@ -6,12 +6,12 @@ updated: "2026-07-16"
 
 # 安全带
 
-## # 拖拉机安全带使用法。
+### 拖拉机安全带使用法。
 
 此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。
 
 ![图片3](http://www.rsa.ie/images/default-source/in-page-full-width-(868-x-487)/seatbelt.jpg?Status=Master&sfvrsn=3f8a3b19_3)
-# # 拖拉机安全带法
+## 拖拉机安全带法
 
 根据现行道路交通法，即使在拖拉机上安装了安全带，您也不必系安全带。但是，为了您的自身安全，我们始终建议您使用安全带。
 
@@ -19,7 +19,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [拖拉机可以系安全带吗？](http://www.rsa.ie/road-safety/road-users/agricultural/seatbelts-on-agricultural-tractors#)
 

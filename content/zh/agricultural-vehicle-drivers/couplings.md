@@ -6,11 +6,11 @@ updated: "2026-07-16"
 
 # 联轴器
 
-## # 你需要知道什么
+### 你需要知道什么
 
 本页提供有关法律限制、联轴器类型、去耦和联轴器额定值的信息。
 
-# # 联轴器的类型及其重量限制
+## 联轴器的类型及其重量限制
 
 联轴器是用于将农用拖拉机连接到拖车或可互换牵引设备的装置。联轴器的法律限制如下：
 
@@ -23,7 +23,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [我如何知道哪种联轴器适合我的车辆或拖车？](http://www.rsa.ie/road-safety/road-users/agricultural/couplings-and-secondary-couplings-on-agricultural-vehicles#)
 

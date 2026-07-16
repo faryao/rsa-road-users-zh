@@ -6,11 +6,11 @@ updated: "2026-07-16"
 
 # R 级农用拖车
 
-## # 你需要知道什么
+### 你需要知道什么
 
 本页提供有关 R 级农用拖车、其类别、法规和技术细节的信息。
 
-# # 拖车巡视检查
+## 拖车巡视检查
 
 [农业拖车检查清单在新浏览器选项卡中打开](https://www.youtube.com/watch?v=lGYWiBZjtC4)您需要同意定位 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/class-r-agricultural-trailers#)
 
@@ -18,7 +18,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 农用拖车 - R 类
+## 农用拖车 - R 类
 
 R 类拖车主要用于运载货物或加工农业材料；每个拖车的末尾根据其设计速度补充有“a”或“b”索引：
 
@@ -37,23 +37,23 @@ R 类拖车主要用于运载货物或加工农业材料；每个拖车的末尾
 
 ---
 
-# # 一般规则
+## 一般规则
 
-## # 适航性测试
+### 适航性测试
 
 R 级农用拖车如果用于商业用途，则需要进行测试。
 
-## # 许可和注册
+### 许可和注册
 
 如果仅由农用拖拉机牵引，R 级农用拖车无需获得许可或注册。
 
-## # 重量和尺寸板
+### 重量和尺寸板
 
 自 2016 年 1 月 1 日起，所有新的农用拖车都必须上牌。如果您的拖车没有电镀，您可以联系拖车的原始制造商或授权经销商。或者，您可以联系现有的拖车制造商，他们可能愿意为您电镀。欲了解更多信息[下载并阅读我们的农用车辆修订标准]（http://www.rsa.ie/docs/default-source/road-safety/r1.6-agricultural-vehicles/revised-standards-for-agricultural-vehicles.pdf?Status=Master&sfvrsn=670b2fb7_5“下载并阅读我们的农用车辆修订标准”）。
 
-## # 型式批准[欧盟法规 167/2013 在新浏览器选项卡中打开](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R0167)（经修订）中概述了 R 级农用拖车的型式核准要求。有关类型批准的信息，您需要联系[爱尔兰国家标准局在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/national-type-approva/) (NSAI)。
+### 型式批准[欧盟法规 167/2013 在新浏览器选项卡中打开](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32013R0167)（经修订）中概述了 R 级农用拖车的型式核准要求。有关类型批准的信息，您需要联系[爱尔兰国家标准局在新浏览器选项卡中打开](https://www.nsai.ie/certification/automotive/national-type-approva/) (NSAI)。
 
-## # 制动要求
+### 制动要求
 
 **制动要求取决于制造年份。对于 2016 年 1 月 1 日或之后制造的拖车，制动要求如下。**
 
@@ -77,7 +77,7 @@ R 级农用拖车如果用于商业用途，则需要进行测试。
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [什么是R类农用拖车？](http://www.rsa.ie/road-safety/road-users/agricultural/class-r-agricultural-trailers#)
 

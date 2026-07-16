@@ -6,7 +6,7 @@ updated: "2026-07-16"
 
 # 拖车制动法则
 
-## # 最大设计速度、制动效率检查和手动间隙调节器。
+### 最大设计速度、制动效率检查和手动间隙调节器。
 
 ---
 
@@ -32,7 +32,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [如果我的拖车或可互换牵引设备无法安装防抱死制动系统（ABS）怎么办？](http://www.rsa.ie/road-safety/road-users/agricultural/braking-laws-for-class-r-agricultural-trailers-and-towed-equipment#)
 

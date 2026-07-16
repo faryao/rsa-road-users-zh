@@ -49,6 +49,7 @@ async function translateMarkdown(md) {
   for (const chunk of chunks) { translated.push(await translateText(chunk)); await sleep(120); }
   const zhTitle = await translateText(title);
   const normalized = translated.join('')
+    .replace(/^(#+)\s+(#+)\s+/gm, (_, a, b) => `${a}${b} `)
     .replace(/^(#{1,6})(?=\S)/gm, '$1 ')
     .replace(/^【([^\n]+)\]\(/gm, '[$1](')
     .replace(/^【([^\n]+)】\(/gm, '[$1](')

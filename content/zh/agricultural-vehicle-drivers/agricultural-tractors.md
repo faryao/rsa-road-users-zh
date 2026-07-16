@@ -6,11 +6,11 @@ updated: "2026-07-16"
 
 # 农用拖拉机
 
-## # 你需要知道什么。
+### 你需要知道什么。
 
 此页面提供有关拖拉机许可类别、法定重量和尺寸、适航性测试、安全带、车牌和类型批准的信息。
 
-# # 拖拉机巡视检查
+## 拖拉机巡视检查
 
 [拖拉机巡视清单在新浏览器选项卡中打开](https://www.youtube.com/watch?v=zhl-BVhWwyI)您需要同意定位 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/agricultural-tractors#)
 
@@ -18,7 +18,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 农用拖拉机
+## 农用拖拉机
 
 农用拖拉机定义为：
 
@@ -29,9 +29,9 @@ updated: "2026-07-16"
 
 ---
 
-# # 一般规则
+## 一般规则
 
-## # 适航性测试
+### 适航性测试
 
 农用拖拉机不需要进行适航性测试，但法律要求您确保您的车辆在公共道路上使用时始终处于适航状态。
 
@@ -41,25 +41,25 @@ updated: "2026-07-16"
 
 请访问 CVRT 网站上的[快速拖拉机测试页面在新浏览器选项卡中打开](https://www.cvrt.ie/en-US/About-CVRT/Fast-Tractor-Testing/)了解更多详细信息。
 
-## # 闪烁的琥珀色信标
+### 闪烁的琥珀色信标
 
 所有拖拉机和自走式机器都必须安装闪烁的琥珀色信标，并在公共道路上运行时将其打开。
 
-## # 车牌号
+### 车牌号
 
 拖拉机的前部和后部必须安装车牌。请联系[收入在新浏览器选项卡中打开](https://www.revenue.ie/en/vrt/vehicle-registration-tax/registering-machinery.aspx)以获取更多信息。
 
-## # 重量和尺寸
+### 重量和尺寸
 
 我们的[重量和尺寸](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/weights-and-dimensions) 资料单概述了适用于农用拖拉机的法定宽度、长度、高度和重量限制。
 
-## # 安全带
+### 安全带
 
 根据现行道路交通法，您不必在拖拉机上系安全带，但是，为了您自身的安全，我们始终建议您使用安全带。
 
 ---
 
-# # 型式核准类别拖拉机按字母 T 分类，包括所有轮式拖拉机；每个轮式拖拉机类别根据其设计速度在“a”或“b”索引末尾补充：
+## 型式核准类别拖拉机按字母 T 分类，包括所有轮式拖拉机；每个轮式拖拉机类别根据其设计速度在“a”或“b”索引末尾补充：
 
 “a”表示最大设计速度低于或等于 40 km/h 的轮式拖拉机，例如T1a、T2a
 
@@ -79,7 +79,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [欧盟销售农用轮胎电子标记的法律是什么？](http://www.rsa.ie/road-safety/road-users/agricultural/agricultural-tractors#)
 

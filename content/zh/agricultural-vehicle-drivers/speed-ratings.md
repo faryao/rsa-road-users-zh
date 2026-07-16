@@ -6,7 +6,7 @@ updated: "2026-07-16"
 
 # 速度等级
 
-## # 设计速度和速度盘。
+### 设计速度和速度盘。
 
 此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。
 
@@ -35,7 +35,7 @@ updated: "2026-07-16"
 
 ---
 
-# # 常见问题
+## 常见问题
 
 [如何找到我的拖拉机或拖车的设计速度？](http://www.rsa.ie/road-safety/road-users/agricultural/speed-ratings-for-agricultural-tractors#)
 

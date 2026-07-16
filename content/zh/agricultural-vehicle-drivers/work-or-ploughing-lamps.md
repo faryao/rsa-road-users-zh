@@ -6,7 +6,7 @@ updated: "2026-07-16"
 
 # 工作灯或耕作灯
 
-## # 适用于使用工作灯和犁耕灯的法律。
+### 适用于使用工作灯和犁耕灯的法律。
 
 此内容仅供一般信息参考。它不会也无意提供法律或技术建议或代表其所解决问题的法律解释。
 
@@ -28,7 +28,7 @@ updated: "2026-07-16"
 
 您需要同意定向 cookie 才能加载此媒体[查看 Cookie 设置](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
 
-# # 常见问题
+## 常见问题
 
 [使用公共道路时打开工作灯是否违法？](http://www.rsa.ie/road-safety/road-users/agricultural/correct-use-of-work-or-ploughing-lamps#)
 
