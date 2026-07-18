@@ -1,7 +1,7 @@
 ---
 title: "AdBlue"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/adblue-or-diesel-exhaust-fluid"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # AdBlue

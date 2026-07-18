@@ -1,12 +1,12 @@
 ---
 title: "安全带和儿童约束装置"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-components/seatbelts-and-child-restraints"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 安全带和儿童约束装置
 
-### 如果您的车辆安装了安全带和儿童约束装置，则必须始终佩戴它们。
+## # 如果您的车辆安装了安全带和儿童约束装置，则必须始终佩戴它们。
 
 所有身高低于 150 厘米和/或体重低于 36 公斤的儿童在乘坐出租车或公共汽车以外的汽车或货车旅行时，必须使用适合其身高和体重的儿童约束系统 (CRS)。
 

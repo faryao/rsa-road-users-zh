@@ -1,7 +1,7 @@
 ---
 title: "Vehicle lighting"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-lighting"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # Vehicle lighting

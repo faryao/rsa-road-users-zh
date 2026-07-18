@@ -1,12 +1,12 @@
 ---
 title: "车辆零部件"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 车辆组件
 
-### 爱尔兰的车辆零部件和立法。
+## # 爱尔兰的车辆零部件和立法。
 
 车辆部件的重要安全标准，例如照明、安全带、车辆玻璃、轮胎、正面保护系统和发动机技术。
 

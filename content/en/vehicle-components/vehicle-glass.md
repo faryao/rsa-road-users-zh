@@ -1,7 +1,7 @@
 ---
 title: "Vehicle glass"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-glass"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # Vehicle glass

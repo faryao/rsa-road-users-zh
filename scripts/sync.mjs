@@ -74,7 +74,7 @@ await fs.mkdir('content/zh', {recursive:true});
 const filter = process.argv[2];
 const selectedPages = filter ? pages.filter(([slug]) => slug === filter || slug.startsWith(`${filter}/`)) : pages;
 for (let i=0; i<selectedPages.length; i++) {
-  const [slug,title,sourceSlug = slug] = selectedPages[i];
+  const [slug,configuredTitle,sourceSlug = slug] = selectedPages[i];
   const source = `${root}${sourceSlug ? '/'+sourceSlug : ''}`;
   const file = slug || 'index';
   const target = path.join('content/en', `${file}.md`);
@@ -83,6 +83,8 @@ for (let i=0; i<selectedPages.length; i++) {
   await fs.mkdir(path.dirname(zhTarget), {recursive:true});
   try {
     const raw = await (await retry(`https://r.jina.ai/http://${source.replace('https://','')}`)).text();
+    const title = configuredTitle || raw.match(/^Title:\s*(.+)$/m)?.[1]?.trim();
+    if (!title || title === 'Page not found') throw new Error('missing source page title');
     const en = clean(raw, source, title);
     await fs.writeFile(target, en);
     await fs.writeFile(zhTarget, await translateMarkdown(en));

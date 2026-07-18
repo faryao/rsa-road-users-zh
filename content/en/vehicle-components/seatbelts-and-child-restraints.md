@@ -1,7 +1,7 @@
 ---
 title: "Seatbelts and child restraints"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-components/seatbelts-and-child-restraints"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # Seatbelts and child restraints

@@ -1,7 +1,7 @@
 ---
 title: "FAQs"
 source: "https://www.rsa.ie/road-safety/road-users/car-drivers/resources"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # FAQs

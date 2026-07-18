@@ -1,12 +1,12 @@
 ---
 title: "车辆照明"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-lighting"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 车辆照明
 
-### 无论您是在白天还是夜间出行，您的车辆拥有适当的照明和可见度非常重要。
+## # 无论您是在白天还是夜间出行，您的车辆拥有适当的照明和可见度非常重要。
 
 有许多针对车辆的照明规定，以确保您可以看到和被看到，而不会让其他道路使用者感到眼花缭乱。
 

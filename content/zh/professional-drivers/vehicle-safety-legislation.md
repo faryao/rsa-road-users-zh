@@ -1,12 +1,12 @@
 ---
 title: "车辆安全与立法"
 source: "https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 车辆安全与法规
 
-### 公共汽车、卡车和拖车的车辆安全和立法。
+## # 公共汽车、卡车和拖车的车辆安全和立法。
 
 适用于爱尔兰公共汽车、轻型商用车、重型商用车和拖车的车辆安全和立法。
 
@@ -16,9 +16,9 @@ updated: "2026-07-16"
 
 [重型商用车爱尔兰重型商用车 (HCV) 的车辆标准。安全检查、巡视检查、适航证书 (CRW)、维护和修理。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/heavy-commercial-vehicles)
 
-[轻型拖车用于家用和商业用途的轻型拖车的车辆标准。轻型拖车和重型拖车之间的区别。预告片视频和常见问题解答。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/light-trailers)
+[轻型拖车用于家用和商业用途的轻型拖车的车辆标准。轻型拖车和重型拖车的区别。预告片视频和常见问题解答。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/light-trailers)
 
-[重型拖车 用于家用和商业用途的重型拖车的车辆标准。轻型拖车和重型拖车之间的区别。预告片视频和常见问题解答。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/heavy-trailers)
+[重型拖车 用于家用和商业用途的重型拖车的车辆标准。轻型拖车和重型拖车的区别。预告片视频和常见问题解答。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/heavy-trailers)
 
 [重量和尺寸 爱尔兰道路上商用和农用车辆及拖车的最大允许重量和尺寸。了解更多](http://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation/weights-and-dimensions)
 

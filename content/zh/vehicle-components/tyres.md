@@ -1,12 +1,12 @@
 ---
 title: "轮胎"
 source: "https://www.rsa.ie/road-safety/road-users/vehicle-components/tyres"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 轮胎
 
-### 车辆轮胎、轮胎类型以及备胎和轮胎的使用。
+## # 车辆轮胎、轮胎类型以及备胎和轮胎的使用。
 
 轮胎是车辆与路面接触的唯一部分。这就是为什么选择合适的轮胎并正确维护它们至关重要
 

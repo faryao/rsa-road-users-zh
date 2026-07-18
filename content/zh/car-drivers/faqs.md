@@ -1,12 +1,12 @@
 ---
 title: "常见问题解答"
 source: "https://www.rsa.ie/road-safety/road-users/car-drivers/resources"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # 常见问题解答
 
-### 常见问题和各种功能的链接。
+## # 常见问题和各种功能的链接。
 
 有关乘用车、电子呼叫、安全功能、购买二手车和进口车、报废车辆、计时汽车、左驾车辆、电动汽车、报废车辆和套件车的常见问题。
 

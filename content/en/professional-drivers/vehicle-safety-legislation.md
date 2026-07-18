@@ -1,7 +1,7 @@
 ---
 title: "Vehicle safety & legislation"
 source: "https://www.rsa.ie/road-safety/road-users/professional-drivers/vehicle-safety-legislation"
-updated: "2026-07-16"
+updated: "2026-07-18"
 ---
 
 # Vehicle safety & legislation
